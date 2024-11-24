@@ -1,0 +1,1003 @@
+server_id,server_name,server_category,server_num
+0007f352-7249-45f2-a8fa-3e9e68211472,Finance World Corner,"[1, 12, 13]",0
+002468de-aae1-42a0-8e61-1609d8df4269,Finance World Corner,"[8, 12]",1
+014f84ea-afd2-482a-974a-51a2aa81c1c2,Art Lounge Corner,[11],2
+01ffb523-c74e-430d-bd9d-8f794f2d1eaf,Tech Talks Fans,[4],3
+0259a8db-4a52-492a-a0c8-fed4945fd2c8,Art Lounge Fans,"[2, 11]",4
+02b5a1b8-caef-42b7-aa69-a3bb0eedc34a,Tech Talks Fans,"[5, 6, 15]",5
+02c572e0-525d-4b24-a9d5-0cb4328f28cc,Art Lounge Circle,[7],6
+02c7560b-107d-4c12-b829-55bd3e3e7775,Gaming Hub Corner,"[8, 10]",7
+02d08310-568e-4e72-ba4c-6fe4d2dcac2c,Study Zone Corner,"[8, 11]",8
+02e1f944-6bec-43ce-9eca-f7056ce5e0b5,Finance World Corner,[12],9
+03040575-e021-46ac-b705-f93a6345e9ac,Art Lounge Connect,"[4, 9, 11]",10
+033a0753-efe2-4491-92ed-47a06c96844a,Tech Talks Corner,[6],11
+03908f62-c7c6-416a-8680-92a658d60930,Gaming Hub Corner,"[3, 9, 11]",12
+03a5942d-9519-4e0d-87a9-678cc1b4b2b3,Tech Talks Corner,[5],13
+03a785af-411e-4a5b-bc5a-8629a67802e1,Gaming Hub Circle,"[4, 6, 10]",14
+040cf0fe-3eb0-4b7c-a696-f99d8a67733f,Gaming Hub Corner,"[1, 2]",15
+0486c875-0318-41c2-9307-118d2b415b72,Study Zone Corner,"[5, 12]",16
+04adaf3c-b3b9-4847-a5be-59463623cb10,Tech Talks Circle,"[2, 8]",17
+04b34179-80e0-445d-aef0-71d6758e7820,Art Lounge Corner,"[6, 12]",18
+04eaa05a-fe5a-4346-9db1-e6311fcc298f,Art Lounge Fans,"[7, 11]",19
+0537fea3-6310-4a8a-9592-9d1b3b53ac4f,Study Zone Connect,[13],20
+054dd5fa-24be-4cda-91fa-88fa34a606a9,Finance World Connect,[4],21
+05e67ae3-e1d3-4f94-9bbe-e97a49c995ba,Study Zone Circle,[4],22
+064c027f-245d-46c4-b9e5-6623ba947706,Art Lounge Corner,[15],23
+0668edad-c974-48ca-bfcb-be6c31b882a6,Study Zone Fans,"[3, 10, 13]",24
+069f7ebb-5887-4d9d-a92e-b51b756efe04,Gaming Hub Fans,[5],25
+06ce4b6b-80df-4923-bd06-24ae49c3b2dd,Art Lounge Connect,"[5, 9, 15]",26
+06ee4a09-5e0f-450e-8118-576027e47612,Finance World Corner,"[2, 3]",27
+0726eee4-a0e4-4f86-9b02-52a4423dcc9f,Tech Talks Connect,"[4, 5, 13]",28
+07cc1709-1527-4b4a-b248-7b419c46acb9,Tech Talks Circle,[3],29
+0897a1ab-c852-4a55-9d63-4fa1a6956a8f,Tech Talks Corner,[7],30
+08c703f4-5db9-4168-9db7-bcfc9cef6328,Art Lounge Circle,"[1, 3, 6]",31
+08eda489-4084-49c1-b095-3c017af1ce5a,Gaming Hub Fans,"[3, 8, 15]",32
+0928465e-09f6-4be2-b653-e44c55942c9f,Tech Talks Circle,"[4, 8, 12]",33
+094ba984-0f15-47ab-ad5d-4013c2af763f,Art Lounge Fans,"[11, 12, 13]",34
+099d0b7a-a4b8-4a52-a32e-27c0e1a5ca2e,Finance World Circle,"[2, 5, 11]",35
+09d070b0-8c38-4ecc-b943-a5602a9e8f82,Study Zone Connect,"[8, 13]",36
+09e1e9f5-28be-4f04-99ff-d4af1a5511f1,Art Lounge Circle,"[7, 12, 13]",37
+09e26941-e9d4-4670-b0d2-d7252a36eadc,Finance World Corner,"[4, 6]",38
+0a232fdc-75c2-47ad-bcd7-9437a58fae42,Art Lounge Corner,"[4, 10, 13]",39
+0a2ec248-953a-4c04-8816-d3ee7cee0bec,Art Lounge Fans,"[1, 2, 5]",40
+0a4d6435-72f3-412d-8a81-b73b78ed1022,Tech Talks Corner,"[3, 14]",41
+0a618c2c-21f2-46d4-9ae6-0abccb21c1bb,Tech Talks Connect,[15],42
+0a6b4474-ef32-4eac-98b3-da820ceae1c2,Finance World Circle,"[3, 11, 14]",43
+0a709dc4-16b1-4609-a5b7-168cf7e57e2b,Study Zone Fans,"[8, 9, 10]",44
+0ac048e6-fb1e-4c84-86af-78f2b43ac8e4,Art Lounge Fans,"[1, 4, 5]",45
+0b1932f8-a3a7-4365-a2c3-97be68a86f5d,Study Zone Corner,"[1, 3, 7]",46
+0b376bff-a58e-4d44-b6b9-1ab6ad17db3a,Finance World Corner,[10],47
+0b505556-d3d7-4a22-98d8-dacd98fcec4a,Tech Talks Connect,"[5, 10]",48
+0b552675-2c7f-4bee-b310-8ea9d7bfdf54,Study Zone Corner,[7],49
+0b7077a9-1a61-4b6f-b4a9-638d755e5c87,Study Zone Circle,[5],50
+0b97023a-9b41-4fe1-a790-fd3c071e73dd,Gaming Hub Connect,[5],51
+0bf81798-de8c-4393-8823-cf67e8174c5b,Tech Talks Circle,"[9, 11]",52
+0c035443-c64c-48ff-9bbc-cbccd158eb7a,Finance World Connect,[12],53
+0c3e3192-1bd2-41f7-b533-a5ecdc6dd8be,Finance World Circle,"[7, 9, 12]",54
+0c4f2993-7665-4d33-b1d1-062b5b232f8c,Tech Talks Circle,[10],55
+0d7cceae-6a16-44c3-9744-57f0bd3be8d2,Tech Talks Fans,"[5, 6]",56
+0dcb7072-0521-45fd-947f-7a038674031f,Art Lounge Fans,[7],57
+0dfd5c63-fe7a-4a8d-bbfa-e49c94977947,Study Zone Fans,"[3, 10, 15]",58
+0e6fcfef-69b9-4842-ac08-7fb38640737a,Finance World Fans,"[6, 13, 14]",59
+0e7866aa-8208-4690-96cc-81d88dd4a716,Art Lounge Circle,"[2, 6]",60
+0ead3ccf-53d2-412c-ba40-0c977141fb3a,Art Lounge Connect,[1],61
+0ebd2d65-3ac3-42e9-bac6-e571b25ff508,Art Lounge Corner,"[1, 10]",62
+0ecf4f0d-3667-4ebe-8627-da24aa77222f,Finance World Corner,[9],63
+0edb95e3-5acb-4ed0-8ac1-9b3eea0cab82,Tech Talks Circle,"[5, 9]",64
+0ef10ee4-ac34-4583-ad26-476ed768cd8b,Finance World Fans,"[6, 12]",65
+0f0b85b2-5d00-4372-bdaf-bb15c1785e12,Finance World Circle,[10],66
+0f304a3e-f0d0-4390-908c-1121cfd00141,Finance World Fans,"[3, 9, 13]",67
+0f5c02b8-4c34-4adf-98ed-6eec54310f09,Tech Talks Fans,"[5, 11, 15]",68
+0f8e319c-9b8f-4bc3-b048-59df3c6ac887,Tech Talks Corner,[5],69
+0f9d66a0-4a4c-4833-af5f-14e3a2e78b0c,Study Zone Circle,"[2, 5]",70
+0fb55d03-02fe-4bee-b641-b3cb74356ba1,Gaming Hub Connect,"[4, 15]",71
+0fbf6814-40de-4958-9df4-3aaeaa71b75c,Tech Talks Fans,[13],72
+1000ebbe-c039-40ab-b517-2ba5e91f9624,Tech Talks Connect,"[6, 11]",73
+101add54-ff0e-4c5c-83f3-013f369ada91,Finance World Corner,[13],74
+107d0ef2-81ac-4e5a-8fe6-08d132764885,Gaming Hub Circle,"[2, 5]",75
+10966a3e-dbf8-4741-acc7-f20712aff16e,Finance World Circle,[6],76
+10bbf8b7-3960-43f8-b6e1-e6042ce3d733,Gaming Hub Fans,"[1, 11, 14]",77
+10bc4dbc-3343-4784-9405-a9d4646a4e70,Art Lounge Circle,"[7, 11]",78
+10f2a42c-efef-4cbf-90a3-147a1336c456,Finance World Connect,[5],79
+12dd5abe-9f0c-4c5d-b744-bb975e27f223,Gaming Hub Circle,[5],80
+135ac460-38c9-4247-8761-886277e3f9fa,Art Lounge Circle,"[2, 9, 11]",81
+140d1910-4001-4d82-9028-b568d8324ee5,Study Zone Corner,"[2, 6, 11]",82
+141a9d4f-5dad-43b6-9998-bb1a880ee8ba,Gaming Hub Connect,"[6, 10]",83
+14c01895-35a6-434f-bb4f-40deb3a43337,Art Lounge Corner,"[5, 10, 15]",84
+1563c7c9-1c0c-43fc-9f40-7021e40e9ad9,Study Zone Fans,"[2, 7, 8]",85
+1614e7de-5b25-4e94-b58b-8649a9eceb80,Finance World Fans,[6],86
+161b4aa9-9300-4924-b34f-564557251d3c,Gaming Hub Connect,"[2, 5, 7]",87
+16a82dd8-ca86-4e14-9d5c-964d306e90b5,Finance World Connect,"[5, 11, 13]",88
+16bfd595-9f01-4391-b4ab-ec3ae16366ce,Finance World Fans,[4],89
+16cb3482-d4c0-494e-9715-13131b7a32d0,Gaming Hub Connect,"[1, 12, 14]",90
+16cef9d8-03e4-44d3-a5d7-34ee5b451d17,Gaming Hub Circle,"[8, 11, 14]",91
+16cfb40e-3e96-4c77-8f18-2ac44e23e42d,Tech Talks Fans,[11],92
+171b811d-1147-49c0-a9a3-07029dc83fc1,Gaming Hub Connect,"[7, 13, 14]",93
+172c5540-0796-45f6-b146-504aebb68ae9,Tech Talks Fans,"[3, 7]",94
+1769a0c4-9335-4c08-9359-e6da32b250d6,Gaming Hub Connect,[5],95
+18fe9c7c-1a3f-433f-9f12-aeadb02ad768,Study Zone Circle,"[10, 12]",96
+19787d1c-2f10-43c9-9a17-f109eec4d899,Finance World Corner,"[9, 11]",97
+1a0c10f9-f6c5-412a-9038-a3eff841bbe1,Art Lounge Fans,"[5, 7, 13]",98
+1a0e7f2c-e79b-4006-8a1c-476c227c51c7,Study Zone Circle,"[1, 14, 15]",99
+1a186cef-486a-415a-9a55-fca7cf2dfaf0,Gaming Hub Connect,"[2, 5, 11]",100
+1a318255-1cd0-433a-9a4e-b79d7ecaa54d,Art Lounge Connect,"[3, 15]",101
+1a427c4d-e055-41e0-a8a3-ebdfca21e8da,Art Lounge Circle,"[4, 8, 12]",102
+1a9e74a9-5f07-497a-ab0b-7f7559388d9a,Finance World Circle,"[3, 8]",103
+1aa83e80-9376-4387-9a99-b06b0ab20345,Gaming Hub Circle,"[10, 15]",104
+1b1fb182-f469-4501-af49-55bfcbd405c5,Tech Talks Circle,"[10, 14]",105
+1b26b0b2-a4b0-4504-b11e-b80c9e68e96d,Gaming Hub Corner,"[4, 15]",106
+1b2b7440-19cb-4e10-bc1a-cdbc7b63eada,Finance World Connect,"[1, 8]",107
+1b6fbaba-07d7-4328-8abc-de4c9702db45,Study Zone Fans,[11],108
+1bb35c7c-bb14-4202-95f1-22d1887e4f37,Tech Talks Fans,[15],109
+1c051d31-2c9a-4c32-ba0d-ccd41fe0baa6,Art Lounge Corner,"[2, 7, 14]",110
+1c13da64-fa9f-46e6-9cd8-ed137f55e737,Gaming Hub Circle,"[5, 9, 10]",111
+1ca099aa-f792-441c-9fff-9a828aeb3f5b,Gaming Hub Fans,[7],112
+1ca3cce3-d5c1-4c5c-8516-ea1ec013fb44,Finance World Connect,"[1, 14, 15]",113
+1cf2fa32-8b86-4e4e-9db7-103e9da19a19,Gaming Hub Connect,[8],114
+1d050287-d113-4900-b46c-c8f6cb502b61,Study Zone Connect,"[3, 6, 13]",115
+1d0f59c6-3dbf-48d0-be70-e558545141c6,Art Lounge Connect,[4],116
+1d251df3-9c1f-4301-81b5-244d8d1f363f,Art Lounge Connect,"[3, 9, 11]",117
+1d2a66de-bb6d-43fc-ac49-cc0e495012b6,Art Lounge Corner,"[7, 9, 10]",118
+1d2e3c52-ff44-4a77-b92a-769467ec4ba9,Study Zone Connect,"[2, 9]",119
+1df45fca-b519-44f7-bdab-9021db1d0cc9,Study Zone Corner,[1],120
+1e0d87c0-3aca-4ebb-9cc1-773c9a220215,Gaming Hub Corner,[1],121
+1e1f9444-5f97-4894-a458-b1e33d314a02,Finance World Corner,"[1, 4, 5]",122
+1e804627-8b68-4b4b-883b-666414649a72,Art Lounge Fans,[8],123
+1eafdc44-458f-40be-a7a0-571a1c2ab10f,Study Zone Connect,"[4, 15]",124
+1f4f9405-36f7-4c39-a88f-5549d5312ed0,Art Lounge Connect,"[2, 4, 6]",125
+20096692-697a-4699-a48c-7b107c27ced1,Gaming Hub Connect,"[3, 11]",126
+203f037a-ab83-4c6f-b681-eed75b166ace,Finance World Corner,"[4, 13]",127
+20f5e529-532f-4c31-89c0-0fb2d3cbf1a6,Finance World Corner,[13],128
+21250c19-7551-47fb-a493-f09fb67ff2df,Gaming Hub Fans,[13],129
+216ee10c-02ee-4da7-b4d3-499f895b78b3,Art Lounge Fans,"[2, 3]",130
+217c6441-5d56-4751-b0fb-1f05bea5ce5b,Tech Talks Connect,"[10, 13, 14]",131
+21ca6b17-8202-4ee3-a979-7bca4a9e88dd,Tech Talks Fans,[5],132
+22194c71-6496-47ee-856a-e94c79fd347e,Tech Talks Corner,[5],133
+22dc2762-5f5f-4f8f-b076-4d60726a6319,Tech Talks Connect,"[2, 6, 8]",134
+2351c814-aa18-4ded-93a1-19b585a7f29c,Art Lounge Circle,"[1, 14]",135
+23ebab28-9d90-4ffe-8bc4-47cfbf9370d9,Gaming Hub Fans,"[8, 11]",136
+244d17ec-977e-43d6-af93-cc9b82426069,Tech Talks Fans,"[10, 12]",137
+2495142d-e320-4083-b05f-49165843c00b,Finance World Circle,[4],138
+24a89f8f-e1d7-441d-86ac-fc2f2d3db249,Tech Talks Circle,"[5, 9, 12]",139
+24c109e6-40f3-4a54-909e-06bd10636621,Finance World Fans,[15],140
+24d10dcd-aff0-4b66-924f-07d2b2c40c6a,Gaming Hub Connect,[10],141
+254238cd-80cd-4830-bf8f-a3b6fa69fe93,Tech Talks Connect,"[2, 6, 14]",142
+254f39c7-5d3b-40b8-a552-cd14e2bede53,Art Lounge Fans,"[5, 6]",143
+256361c3-6f9c-44bb-9afc-588d5ad08058,Finance World Circle,"[9, 13]",144
+260d5fc8-c290-4a2b-b5e9-88f1bc24cdbf,Study Zone Fans,"[10, 12]",145
+26292f85-3609-4ee0-a8bd-da1abc98b049,Art Lounge Circle,[10],146
+2640415e-4a92-4eb5-a668-1ab93354d0c6,Finance World Connect,"[7, 12]",147
+26d83057-6332-46ba-81ed-f188f2f9ebb5,Art Lounge Corner,"[5, 8, 15]",148
+26dbe11f-2c2c-40d1-88a4-ea3cb5bcb2a5,Finance World Fans,[11],149
+270826b3-ac7d-498d-9456-7f875429a5ea,Gaming Hub Corner,[4],150
+2740b977-ebed-495d-98c8-5bcf6cf11a9a,Tech Talks Connect,[14],151
+2806f190-5ee3-4dca-bcee-53b328b9f605,Gaming Hub Fans,[4],152
+28a3c7e3-97b6-4d3d-8a82-3c99ae07e2c8,Art Lounge Circle,"[4, 8, 15]",153
+28bfd011-95ae-4753-82fb-d989668e7a0e,Art Lounge Fans,"[8, 15]",154
+29876304-fd78-46be-b46d-c470302d477e,Gaming Hub Circle,"[8, 13, 14]",155
+29b3ace8-413e-4af6-9ee4-b333a0e7842e,Gaming Hub Fans,"[3, 7]",156
+29e73e2a-5141-47aa-af23-8cf70a6806e5,Art Lounge Connect,"[1, 5, 12]",157
+29f11034-4a4e-4527-a6c2-846b05932134,Finance World Connect,"[8, 13, 15]",158
+2a0e8292-7d42-4a1a-b4e8-1e6e3e6bbb93,Study Zone Corner,[8],159
+2a1338af-c1be-4801-8eee-fab62b4eea7b,Art Lounge Circle,"[2, 13]",160
+2a74a3ba-9f95-41c3-bb00-822f74c91130,Tech Talks Corner,"[7, 11, 15]",161
+2ab114d4-b20f-4683-a06e-e0b5946b366c,Gaming Hub Corner,[13],162
+2ad90b14-e080-4e96-b1a5-dc2c397fe450,Finance World Fans,"[8, 12]",163
+2b332a0f-7a73-433e-ae78-617d1ad65763,Art Lounge Connect,[15],164
+2bc8edb3-2c1c-4e90-89b3-3631b29511d5,Finance World Circle,[12],165
+2c2d3bcb-5d35-407b-befb-766bfac3d5a7,Finance World Connect,[13],166
+2cf6d1fd-09b2-4cee-80f9-7d13df7cf139,Tech Talks Circle,"[9, 12]",167
+2d1e71ed-691f-4cc1-b725-7b5378ae58d6,Finance World Corner,"[4, 6, 9]",168
+2d8ebd47-0c80-4246-9029-c1736e1e6fee,Gaming Hub Corner,"[1, 9]",169
+2e34e574-a7bb-4790-8482-2ac61f8590c1,Gaming Hub Circle,"[1, 7]",170
+2e35dc65-7c05-40b5-bcad-4950e1cb59fe,Finance World Corner,[10],171
+2ea50ebd-f721-4d67-af70-a85910b4d4f6,Study Zone Corner,"[9, 13, 14]",172
+2f2ddc57-8c09-49b5-8325-04504223c1ef,Tech Talks Circle,"[1, 10, 13]",173
+2f3cbb7e-89c2-4a7d-9440-48f0666263da,Study Zone Connect,[10],174
+2f3df753-bd60-4137-95c0-0c61ce638283,Gaming Hub Connect,"[1, 5, 8]",175
+2f40e3fd-ad4b-447f-8ae7-a6ae65291c05,Finance World Circle,[1],176
+2f77ddbb-ff5e-476a-b0d3-54c21b92ba87,Study Zone Fans,"[1, 10, 15]",177
+2fb0a536-1e6f-48a7-87a5-22275f697adf,Gaming Hub Corner,"[5, 7]",178
+3034f012-dd11-4097-85b2-70e6debee40b,Finance World Circle,"[3, 6]",179
+304ab2bf-954b-43ff-bcf2-88e31de3c537,Finance World Fans,"[10, 13]",180
+3055d977-4f8a-42cc-bee8-50b963709f3c,Study Zone Circle,"[3, 4, 10]",181
+30895413-60fa-4e3a-aef8-53a453bc6753,Gaming Hub Corner,"[1, 2, 9]",182
+30abe5b9-3cfd-4484-96ea-01817fca2e39,Gaming Hub Corner,"[2, 9, 13]",183
+30d7b0f1-19e3-46ee-943d-0c034d0cab67,Gaming Hub Circle,[1],184
+316099c5-9e84-4ea7-83ee-9b943ba804cb,Study Zone Circle,[11],185
+31c76667-ae78-4c37-a3b5-10c3de115275,Gaming Hub Fans,"[6, 12]",186
+320ce749-0cc5-476a-a5e3-10b1d732c16d,Study Zone Fans,"[1, 4]",187
+321548e3-e06f-4bdd-8d19-69c54343a6d2,Gaming Hub Fans,[9],188
+321e71ea-bbbd-464d-963f-3ebb97b18557,Art Lounge Corner,"[1, 5]",189
+32426a1c-55a4-471f-ab82-ec29638a4231,Art Lounge Corner,"[1, 4]",190
+32bb21cf-0ff2-42eb-ab81-dabbbeb0ddd0,Study Zone Corner,[4],191
+3381035e-1852-46b8-be8f-dccd1fa6baff,Finance World Corner,"[2, 5]",192
+33b746df-5daa-4be2-b8ed-48d25ea7def0,Gaming Hub Fans,[8],193
+33eb0696-d5a3-41ef-bdd0-7a4b32d07f45,Finance World Fans,"[7, 10, 13]",194
+341bb108-401d-4481-b403-5eacf4795260,Gaming Hub Circle,"[6, 12]",195
+34380253-4fed-4647-a093-1a8a48d4a607,Gaming Hub Circle,"[3, 10]",196
+344698cd-0c83-47de-ae58-57d7a8ce1adc,Finance World Connect,[2],197
+3506c02a-10bd-4ea8-a8ab-bc6b2fce64da,Study Zone Connect,[4],198
+35134a1b-85c6-42b5-b072-ddbba2edf14c,Tech Talks Corner,"[2, 7, 13]",199
+352c7bad-e60b-469e-8873-376d38e63500,Study Zone Corner,"[1, 3, 10]",200
+354a66c0-b372-4f20-aef8-f3382241e802,Tech Talks Circle,[2],201
+358a3160-f141-4070-ae36-40d9cedd882c,Tech Talks Corner,"[4, 10]",202
+359f542a-f62a-4d09-9705-3d094b8b80e8,Gaming Hub Connect,"[1, 8]",203
+35a63e9d-3458-4c58-8a03-75cadd26f087,Finance World Connect,"[13, 15]",204
+35bfc759-ca1c-4d1f-8a3f-8763a284ffea,Art Lounge Corner,[8],205
+3619c419-634e-44b6-a09b-10125a94c254,Finance World Fans,"[5, 9, 15]",206
+361e0cb3-0feb-4bef-8188-b1571606e308,Gaming Hub Fans,"[3, 4, 15]",207
+36229e3d-852b-43e4-b60b-796949eb9e8c,Finance World Connect,"[4, 8, 13]",208
+3691efe9-54ee-4a0e-8ec5-9821be1cc706,Art Lounge Fans,"[3, 9, 11]",209
+36a1b8c7-3540-4a20-ac59-abde9b7e25b2,Study Zone Fans,"[11, 15]",210
+36da608b-b5a8-4ea4-9072-cb589629bb4f,Art Lounge Circle,"[1, 6, 15]",211
+37559eea-b0bc-4e84-be90-ebd50d268d10,Art Lounge Corner,"[2, 4, 15]",212
+376a786d-2f81-441b-95ee-89a571c5b119,Finance World Fans,"[1, 13, 15]",213
+377fc470-f24d-4511-80db-38cd425142ac,Study Zone Connect,"[3, 12]",214
+37a7d834-e213-4819-9742-a55e630c633d,Finance World Fans,"[9, 11]",215
+37dd9c91-6495-4443-a238-b0963b26fbd3,Tech Talks Corner,"[4, 15]",216
+38175635-7439-4c90-9edb-bf7f1aead33a,Gaming Hub Circle,[6],217
+38951e2e-9e58-4b4f-ad19-da8dfbeb14be,Study Zone Fans,"[5, 10, 11]",218
+38ae0a1c-bbab-4754-ab92-9f4d24999e6d,Tech Talks Circle,"[1, 4, 10]",219
+38c4d21f-f26f-4f40-af5d-df9865606180,Tech Talks Fans,"[6, 10]",220
+38e60770-458d-4ee3-bc3c-3d2fc1747745,Art Lounge Fans,"[2, 13]",221
+393abcd3-8740-4333-b941-7163fa45d532,Study Zone Connect,"[2, 4, 5]",222
+3966c906-32e2-454c-95b1-7e973d1b18e3,Art Lounge Circle,"[4, 8, 10]",223
+39bbb82f-2b95-4b61-a069-c1c9aafe6a24,Art Lounge Connect,"[2, 3]",224
+3a0bd2c1-a9e5-4c8e-93f7-fb1d1b4d944f,Finance World Fans,"[10, 12, 14]",225
+3a28915e-8b9e-4436-ab53-35ed5f7fdc61,Finance World Circle,"[1, 11]",226
+3a2b0a8c-13ea-4de3-bd23-864195afdd8a,Study Zone Circle,"[7, 11, 14]",227
+3a2d097c-7c2f-4582-ac7f-fa1d73b4bf69,Art Lounge Corner,[2],228
+3a75fb4f-9657-4f38-abff-658b4c0d3c5b,Finance World Fans,"[5, 10, 13]",229
+3ac2ec76-384b-44a5-ae96-dbcff3aa9328,Study Zone Circle,"[3, 4]",230
+3ba08e34-b219-4ff9-8375-bbf5fcb8c308,Finance World Connect,[11],231
+3ba77e2d-5002-407b-b9f0-a9a940f7d730,Tech Talks Fans,"[1, 3, 10]",232
+3bee0bec-5501-4cd2-b8ab-71f95c7dff59,Gaming Hub Connect,"[9, 15]",233
+3c0c6bc1-8624-4539-9203-a1200b0334f1,Finance World Corner,"[1, 2, 15]",234
+3c7d6569-14c9-482b-b02d-42e503eb69e0,Gaming Hub Corner,"[5, 6, 10]",235
+3cf1aec9-c352-449b-9fd9-c121bd220832,Finance World Fans,"[3, 5, 8]",236
+3dd01ef8-d56f-4ebc-98e9-cd418d3b4f41,Tech Talks Circle,[15],237
+3e8a9bc6-0ca1-402c-bfc3-e86dde731a3f,Art Lounge Connect,[12],238
+3ec6793e-fbf3-4921-a6de-60453e78b87f,Study Zone Circle,"[1, 14, 15]",239
+3f23966e-db40-4c17-ab71-f7abeb34e869,Art Lounge Corner,"[6, 12]",240
+3f41b8c2-0800-4df1-9ef5-e9361abe0b23,Study Zone Corner,[8],241
+3fc441d1-6844-4117-b34e-208b79887de2,Finance World Circle,"[1, 14]",242
+3fd290bd-fd74-4f07-9369-226458db65ab,Study Zone Corner,[13],243
+402117df-6b6f-4c39-b294-3392328720aa,Tech Talks Circle,"[4, 6, 9]",244
+4073e7d8-6e0b-4dfc-bcad-237d936f0faf,Art Lounge Connect,"[4, 7, 14]",245
+408c24b1-b43e-45fa-bc2a-8515b9c445e5,Art Lounge Circle,"[1, 10]",246
+40c7c351-10dc-4271-9631-26c20b20de15,Gaming Hub Circle,[2],247
+40d47d98-5a0a-4147-b6ec-983b39d8ebd0,Gaming Hub Connect,[10],248
+4198ed31-5918-4c2a-a79e-dc983a7c0d9c,Gaming Hub Connect,"[8, 9, 14]",249
+42103dbc-1c93-4a92-a70e-0b7569bb992e,Art Lounge Circle,[4],250
+422ca9f5-602e-414b-b55e-e37c843aca0d,Study Zone Circle,"[2, 4, 7]",251
+422e38c9-459b-4845-a198-c0734bd0d2a4,Finance World Circle,"[6, 10, 15]",252
+42de0252-8d48-4832-861e-c6d7dec45068,Finance World Circle,"[3, 10]",253
+42ebc516-ba54-4265-a504-dfee73552614,Finance World Fans,[3],254
+43588e0e-c0a2-4b0b-83fd-4759aeb15e54,Gaming Hub Corner,[13],255
+43703cd1-b5ab-4147-abbc-d447c988d743,Finance World Fans,"[2, 8]",256
+439125aa-98a2-4836-99b6-f0200171b613,Gaming Hub Connect,"[13, 14]",257
+43bc9043-715f-4cd5-933d-eb87a0b00564,Art Lounge Fans,"[1, 4, 14]",258
+43d690bd-812b-4549-a3a8-c97fff2f2b38,Study Zone Fans,"[8, 14]",259
+43ff03dd-5181-4640-a591-0a93db579df1,Tech Talks Circle,"[1, 4, 6]",260
+440d80ee-bb52-4f2f-8d0b-67ccc06b54ea,Art Lounge Fans,"[1, 11, 14]",261
+441f87c6-506b-4459-9761-a623a0ec1c9f,Art Lounge Fans,"[2, 4]",262
+445a9d1a-d4f7-4bd2-a149-7dd0e1748af7,Tech Talks Corner,[15],263
+44bd1c1f-4a0a-442a-ad88-bf85fc4eb640,Art Lounge Fans,[6],264
+44e1cf1c-26d0-42f8-a479-df630e66ec7b,Art Lounge Fans,"[6, 7, 9]",265
+4512dfd8-df60-4db1-8f3e-3674210323a9,Finance World Circle,"[2, 6, 9]",266
+4529b62c-aa6f-4c6e-b891-c7e2d4595dca,Finance World Fans,"[7, 9, 12]",267
+456f286d-ed1f-4e1e-a77b-3fb75aa75a65,Tech Talks Corner,"[8, 13]",268
+4580d2da-bde2-45a1-a301-67d35c9bb27e,Study Zone Fans,[6],269
+45b018a0-bd25-4382-819e-72cfa49f1d86,Art Lounge Fans,"[3, 12]",270
+45bec09a-999e-4264-8782-188805a4e11b,Tech Talks Circle,[9],271
+45e93bf8-a7f2-425c-a506-fca41e420b30,Tech Talks Circle,[15],272
+46172a8a-d9bd-44b9-a8b2-3eaddf9205f1,Study Zone Connect,"[4, 7]",273
+466acf03-2c25-4462-96f8-0797e20cbb85,Finance World Circle,"[1, 8, 15]",274
+46b74046-378b-43c6-9387-7d3057857de6,Study Zone Circle,"[1, 9, 12]",275
+4708baf6-ef7b-497d-b760-2e5a262a8958,Gaming Hub Connect,"[1, 13]",276
+47674cd7-1c47-4f99-a048-799fce4660e8,Tech Talks Circle,[12],277
+479dc585-33be-4ef9-b973-f7a6bce46c31,Gaming Hub Circle,"[4, 13]",278
+47b9867e-e08e-4d47-8d6a-1d2fc6d40263,Finance World Circle,"[10, 12]",279
+4803aee1-98ed-4403-8544-205ac3c5c5c7,Finance World Fans,"[6, 14]",280
+48074c75-6f96-4795-9873-500a459f8b62,Finance World Fans,"[6, 13, 14]",281
+48b14dd3-f263-4197-bbe9-e7edaf2cf9a3,Art Lounge Connect,"[14, 15]",282
+48f2118b-169e-4030-87b0-7fdb6b99bd2d,Study Zone Fans,"[5, 9]",283
+490cabc1-b541-43db-9da0-1750d5fd3ec7,Gaming Hub Connect,"[5, 15]",284
+497b3045-58ce-4d82-83ed-cfe43f752d49,Finance World Corner,"[9, 12]",285
+499a59a0-c219-42c5-a571-ab7bb3ec899d,Art Lounge Connect,[11],286
+49c39005-a1b6-45ff-9e94-0e72a532192a,Finance World Circle,"[6, 9]",287
+49fed7a1-c5bf-49b5-ab6c-d0c254b7db33,Study Zone Connect,"[1, 5, 9]",288
+4a2d26aa-1294-49d5-be20-cf4d279343dd,Finance World Fans,"[8, 13]",289
+4a380dd1-1e98-464b-9987-06840d99e037,Study Zone Circle,"[5, 6]",290
+4a898fc4-c260-40aa-98ef-4781f3f1eeb7,Tech Talks Connect,"[2, 14, 15]",291
+4ab6d4f9-4519-496e-b5d2-8b84343cbdbf,Finance World Corner,[13],292
+4ac76f11-bcde-4613-814b-6e1ba39bbdf4,Art Lounge Circle,[8],293
+4b15ed06-a2e0-42b7-8d78-220ef15292be,Study Zone Circle,"[2, 5]",294
+4b726b17-9a6e-45b3-922d-3a33e6777d93,Art Lounge Connect,"[3, 7, 12]",295
+4bd46df6-cb17-40ee-bba9-504371d6bcd2,Art Lounge Circle,[2],296
+4bd8c1e1-f198-481d-aae0-53a785e66023,Gaming Hub Connect,"[2, 5, 6]",297
+4c28cb62-35c3-4641-86c6-5277c48464bb,Finance World Circle,"[1, 2, 4]",298
+4c4110dd-dea4-44dc-b395-b5151da0d2ea,Finance World Corner,"[12, 15]",299
+4c46d844-491a-4797-8da7-88b20e68d40c,Finance World Corner,"[7, 15]",300
+4c6bfeec-5c30-4fae-bb72-21ad09b5ebbf,Finance World Fans,"[13, 15]",301
+4cc059a1-7b9b-4af8-9b20-ddc5dd7cd7cb,Art Lounge Circle,"[3, 15]",302
+4cea6312-64fb-4a48-9f92-dae89a8fd1fd,Finance World Connect,"[2, 9]",303
+4cf87998-4317-4a2a-a93b-d2974c62a828,Study Zone Fans,"[8, 11]",304
+4d0b2278-052d-4fdf-9ae2-140ee0affbbb,Finance World Fans,"[7, 12, 15]",305
+4d0e9837-0c2e-4141-b7c0-16d29c3cfa06,Finance World Corner,[10],306
+4d3632a1-7723-4dad-bef9-cb0a8539568d,Study Zone Fans,"[2, 7, 10]",307
+4d8e1659-51b2-433b-9ac0-a7ad731ff23f,Study Zone Corner,"[9, 13, 15]",308
+4d978eda-e51b-4999-86f1-1e4834226be0,Finance World Circle,[9],309
+4df17b09-55ea-4f07-8a23-56c7aa4fd4d7,Study Zone Connect,"[2, 6, 12]",310
+4e0d8089-a94d-4c62-97a4-1882b972e3cf,Art Lounge Corner,[3],311
+4e8b98ea-a60e-4f70-93e6-f7654c055704,Art Lounge Circle,[4],312
+4f3102d4-4096-40ec-ad6c-94b0b53b7d44,Gaming Hub Circle,"[5, 12]",313
+4f6d396f-26aa-4c29-9a28-5f66c447b338,Art Lounge Connect,"[1, 3]",314
+4f877905-e633-46f8-b754-841d643d44ee,Gaming Hub Fans,"[3, 12]",315
+4f8af120-9acd-4449-b3c1-716b7aa81cf2,Gaming Hub Corner,"[2, 5, 7]",316
+4f9bd6da-2bc0-45ef-bd0d-8e9337104a0c,Gaming Hub Circle,[14],317
+4fcd34be-7045-4c3e-95a9-4d714375798a,Gaming Hub Connect,"[7, 8]",318
+4fce0888-59b3-4275-8583-9c7ce4fe05dd,Study Zone Corner,"[4, 6, 8]",319
+50359bf0-604a-4309-bd6c-2547c6291cb7,Study Zone Corner,[10],320
+50602335-a767-47b9-ad26-7f0142715b55,Finance World Circle,"[6, 8, 14]",321
+50e811c9-5fb3-4650-94dd-257cdbc89eeb,Tech Talks Circle,[2],322
+50e9368e-d18f-41e5-ad78-90e31ee64186,Tech Talks Fans,"[2, 4, 8]",323
+50fb655d-cc83-40da-8920-681b8586f436,Art Lounge Fans,"[3, 8]",324
+50ffbb48-e073-4fb3-b066-069447bdb4ee,Tech Talks Connect,[9],325
+5170fb4a-d972-4081-8578-08043b9c2b90,Tech Talks Circle,"[11, 15]",326
+51854d10-d73b-4a75-93db-080daf7795a1,Gaming Hub Corner,[11],327
+51b67609-1766-4fef-ab9d-f225ff208ab9,Finance World Fans,"[2, 3, 4]",328
+51bb36b3-5a5a-419f-bf7e-04bb663e617c,Finance World Connect,[10],329
+524991b6-3098-455c-a42a-818fe0df464c,Art Lounge Fans,"[3, 8, 14]",330
+529e689e-a4aa-48d3-9027-8a32ec92f084,Tech Talks Corner,"[1, 4, 7]",331
+52a25e6b-9d11-4e08-b12f-27f93148f062,Gaming Hub Circle,[14],332
+52cecc19-9c82-48bf-b6a1-6ee1c07d1b2e,Tech Talks Connect,"[1, 3, 9]",333
+52e8ebb8-8dc9-4de2-9896-e61c9dc2b782,Study Zone Fans,[3],334
+52f25d63-3d05-45df-a5a2-2a78d45fb0b8,Study Zone Connect,[7],335
+53041815-5a8d-4a13-a77a-d762e63c2840,Study Zone Corner,[2],336
+532e3f50-f759-4226-8d7f-09f8a50be94e,Art Lounge Connect,[12],337
+53345a3c-3db3-4687-9153-d546d114f48e,Gaming Hub Connect,[7],338
+53bc8196-aeef-45b8-b06e-3f5f272f7923,Tech Talks Fans,"[8, 10, 14]",339
+53e308aa-769b-4ea7-8b5b-012e2f73b163,Finance World Corner,[8],340
+55558c44-c091-4d80-8051-722d89aad24e,Tech Talks Circle,"[5, 12]",341
+55632e4a-1fda-4939-afd5-79188a5c73d4,Art Lounge Circle,"[2, 12]",342
+55f9733e-d27a-4532-be24-c4598238e04d,Art Lounge Circle,"[1, 13, 14]",343
+565ed78b-ecae-4a85-9d5a-7f8e402b69ca,Finance World Circle,"[4, 7, 11]",344
+567fb683-f6c3-4033-a9c5-ec09fb8d68a6,Tech Talks Fans,"[3, 8]",345
+568692a5-468c-4501-bf1b-d6155c280670,Art Lounge Connect,"[9, 13]",346
+5729eeac-4b3e-45a3-afaf-bcaa2111239f,Study Zone Corner,"[1, 11]",347
+578e9b4c-262f-4b6e-ab7a-f57d7f92c592,Tech Talks Corner,[10],348
+57a12bff-9672-4e8c-bbd6-a800ce1baa9b,Tech Talks Connect,"[3, 5, 7]",349
+57af19ed-22b2-4cde-bf48-74f3fb590a15,Art Lounge Connect,"[1, 2, 12]",350
+57b22515-5c1a-4daa-b9e4-c0a481a77575,Gaming Hub Fans,"[7, 8, 14]",351
+580f7da4-798d-49b9-92ea-d878f5e25474,Art Lounge Fans,[15],352
+587f96e4-b747-4037-b827-786542a65eaa,Art Lounge Fans,"[2, 12, 15]",353
+58aa026e-56c3-4947-8a6c-6be3b66e4511,Tech Talks Circle,[4],354
+58e3c85d-5348-4cae-a0cf-cbae7c920f64,Finance World Circle,[2],355
+590e7be7-790e-4b6e-b0a2-a90058b1ca2f,Study Zone Corner,"[4, 9]",356
+5970b3c3-511d-4ed3-97e4-285e7dbd1aaf,Study Zone Corner,"[2, 6, 10]",357
+598787bb-fa09-4906-92cf-118beae2959d,Finance World Fans,"[10, 12]",358
+59b8606b-0853-4fc1-8bd5-9f0869ea6445,Finance World Fans,[14],359
+5a360a40-49c1-4dcb-a79f-d7ed4643a491,Art Lounge Fans,"[5, 9, 11]",360
+5a379775-4dc1-42d2-88d2-bbb1c9693fd1,Finance World Connect,"[2, 15]",361
+5a55fe0f-f90e-44cf-99b1-339c71b0a79d,Study Zone Circle,[5],362
+5acc3d4a-0945-4ee2-ae9c-d30df1cd9748,Tech Talks Circle,"[11, 13]",363
+5ae0bbe0-084e-4ac0-9308-ebd802fd2124,Study Zone Fans,"[11, 13]",364
+5b567d59-2443-4e67-a230-7985e933c210,Tech Talks Connect,"[2, 8]",365
+5b99cb9b-f929-402b-9d8d-49874d21407c,Study Zone Corner,"[1, 6, 9]",366
+5bb6afcb-b0fb-4dbc-a689-c838d3a74cf8,Tech Talks Fans,"[3, 4]",367
+5bfab79d-1670-4adb-9ead-33cb2ffaae76,Art Lounge Fans,"[5, 10, 12]",368
+5c6375c5-4b12-4d99-9a75-498b7b5f5fe0,Finance World Corner,[4],369
+5c755be8-ec1e-42eb-81d5-540ba218478d,Study Zone Connect,"[7, 8, 13]",370
+5cb7b323-ecae-412b-8e47-29871fa8283e,Tech Talks Circle,"[1, 4]",371
+5cfdbdb3-b6f6-4e7b-b264-dc41c2405da9,Tech Talks Circle,"[5, 9, 13]",372
+5d7a823d-bf1f-48f4-a604-524fe194e65d,Study Zone Circle,"[8, 10]",373
+5dae2c09-c672-44b1-b4eb-2077eb5d7255,Tech Talks Connect,"[1, 6, 9]",374
+5db21343-b3d1-4cc3-8d33-5b1ee431bcce,Art Lounge Corner,[12],375
+5e0d37e3-1ea0-497c-ad11-c5b94088e945,Art Lounge Fans,"[3, 11]",376
+5e12d54a-9e69-4cad-a954-a41fea14f0f5,Study Zone Connect,"[4, 5, 7]",377
+5e18bc17-ad18-46c4-b9f6-f6f051ef4122,Finance World Connect,[1],378
+5e244c99-f690-47b7-99cb-f4ab4e01e9d9,Finance World Circle,[1],379
+5e6e51c3-0b00-4711-91ab-914fc8ae81fa,Study Zone Corner,"[1, 7, 15]",380
+5e8aa4d7-13e1-4271-8edd-a5cde35261c1,Study Zone Fans,"[2, 3, 10]",381
+5ec5bde8-f232-4d74-8aed-6b5c97245056,Art Lounge Connect,"[10, 12]",382
+5ecdde7b-9ead-44c1-915b-4eb3ea078eae,Finance World Corner,"[1, 13]",383
+5f56afbf-2716-42f3-8ab6-64f31a4b4131,Finance World Fans,[5],384
+5f590ebe-2cdf-41d8-8fc5-b14304cda9c5,Gaming Hub Connect,[10],385
+5fbf8dc0-27b2-4b6d-9d2b-35f628698fd7,Finance World Circle,"[4, 8, 12]",386
+5ff7cb54-ec9d-4b5a-a78c-6d4d50ca88fb,Finance World Corner,"[2, 14, 15]",387
+6010dafc-7d38-4826-a04f-166621fffee1,Gaming Hub Circle,[9],388
+60339eb5-7f60-4e7f-af6c-b2cd7bfad7a5,Art Lounge Connect,"[4, 15]",389
+6045e5d8-adb9-466d-918c-b8c33d58deda,Finance World Corner,[10],390
+6156f49d-d6df-4eea-8917-df2de660e536,Art Lounge Fans,"[2, 6, 11]",391
+61823269-eb4e-4dc7-9995-d521c008f846,Tech Talks Corner,[14],392
+61bbdeef-4956-424f-ba11-3d5833deb91b,Gaming Hub Fans,"[2, 4, 13]",393
+61d4f879-8059-46ae-a227-01c081425b85,Gaming Hub Circle,"[1, 9]",394
+62264635-134d-4899-9a1f-ebc57bee1395,Study Zone Connect,[8],395
+62318bed-e3ae-4349-9382-0ee25198879d,Finance World Circle,"[2, 6, 12]",396
+62539b34-0bcc-4f00-80ea-88c9c92265eb,Study Zone Corner,[8],397
+625ec00c-1a33-46ff-88a8-3bfc04d6dc5e,Gaming Hub Connect,"[7, 13]",398
+628e6131-86c8-4e29-8d55-32ef6a016f64,Study Zone Connect,"[1, 10]",399
+62b10b07-b79d-4a2c-97bc-1d79107a3628,Gaming Hub Circle,"[13, 15]",400
+62c7b792-6424-4f36-adba-f1fe8e4e96bc,Study Zone Circle,[7],401
+62e5d359-6756-45a7-93a8-133da2947b84,Gaming Hub Corner,[10],402
+64137013-35cc-4017-b61a-9c3133c3fb53,Study Zone Connect,"[9, 15]",403
+6428d96e-c077-4ffb-b6f5-c4f0a1c6b8e9,Study Zone Circle,"[1, 15]",404
+6485ae7c-887a-4fae-bc27-4cf880c4acbd,Art Lounge Circle,"[6, 12, 14]",405
+64f094c2-3b53-4ae4-bbb2-4b931f98e4ba,Gaming Hub Connect,"[8, 11, 15]",406
+652b18b6-f1be-4f83-b5a9-1577ac7908ba,Art Lounge Circle,"[1, 6, 9]",407
+6549c0a3-08aa-44e6-a4ad-6552e932aa6a,Art Lounge Corner,"[1, 10]",408
+658ce3de-0c4b-4915-a65d-9781c2889526,Art Lounge Corner,"[1, 7, 8]",409
+65a6b6d7-c17e-4e98-bf8f-4ac9432e542b,Art Lounge Corner,"[5, 8]",410
+65c3310b-749c-40d8-91a0-cfcbd319fe2a,Art Lounge Corner,"[2, 3, 12]",411
+6612de3d-bee2-4c7c-91c3-bd3aac5ac9f7,Art Lounge Fans,"[7, 11, 13]",412
+66eec4c6-f8b7-48a2-9cdc-10431acf5555,Study Zone Circle,"[3, 15]",413
+6734a80c-105b-4454-9838-76157a274dea,Art Lounge Fans,"[7, 11]",414
+6770d5f6-714d-4db4-a497-0367573459b7,Finance World Fans,[8],415
+67901e2e-03c4-4332-a190-4301f5ce880e,Finance World Connect,"[2, 3, 14]",416
+6794292f-bb9c-444a-8158-b7a126f3fdb9,Finance World Circle,"[9, 15]",417
+67d9921e-7413-42ad-a107-98e6841df674,Art Lounge Fans,"[6, 13]",418
+6807748d-c1c8-46fb-aa12-25bf95970194,Art Lounge Fans,"[1, 2, 9]",419
+68774cfd-56a7-4280-ac2a-529130d99cb9,Art Lounge Circle,[4],420
+688af1e1-eb4c-4c97-95b6-3e4b8c90ce38,Finance World Fans,"[5, 6, 8]",421
+68e39f68-2138-4ab1-b6ef-48b7afa9daba,Tech Talks Circle,"[2, 6]",422
+69018c56-43cd-40ea-8b91-42b46dae8bf0,Finance World Corner,"[6, 7]",423
+69532a38-749f-4b1d-89e6-70389f2634a9,Finance World Corner,"[9, 14]",424
+69597e4e-56ad-4098-9c81-feca4c188d8a,Art Lounge Connect,"[2, 7]",425
+699c93a5-97cc-426d-84d6-5365fd75fc60,Gaming Hub Connect,[11],426
+69abb31a-be10-4920-8b83-c887b59bb831,Finance World Fans,[5],427
+69df4a46-58bf-4f1b-ad50-20a5eb9baf8f,Finance World Connect,"[7, 10]",428
+6a001e5e-9d71-4077-8a58-3df255383be4,Gaming Hub Corner,"[6, 8, 14]",429
+6a328fec-eedf-4530-bdd3-7f5b12ee9dd6,Art Lounge Fans,[2],430
+6aebb684-ad0b-47c0-8d02-bf0711afdc5e,Finance World Fans,"[2, 3]",431
+6b39dcf4-538e-4495-b775-065ad07235f2,Study Zone Corner,"[2, 11, 12]",432
+6b5885d9-41b5-4ce0-ad16-566df7ef2431,Art Lounge Fans,[11],433
+6c20df42-915d-4a93-ba81-90e7e94337d9,Tech Talks Circle,[9],434
+6c33b67c-c39b-4ab6-951b-2be0d0da6791,Art Lounge Corner,"[8, 12]",435
+6c993c42-ee14-4788-a2b7-47bb86d19afa,Art Lounge Corner,"[3, 13]",436
+6ce41a63-4c23-45fe-a928-c0fea4236e6b,Study Zone Fans,"[4, 10, 14]",437
+6cf56910-e9cd-4903-ba27-847393b74bc6,Study Zone Circle,[1],438
+6d0baf5f-96a4-45a9-8019-5229a554070c,Finance World Connect,"[5, 8, 10]",439
+6d5f7e51-e755-4c6b-9538-66d32d6b8b2f,Finance World Circle,"[5, 7]",440
+6dd53dec-ced9-4629-8ee9-c67ca698ee45,Gaming Hub Connect,"[5, 14]",441
+6e2d0faf-794d-4722-840d-3eea03226a8c,Art Lounge Circle,[4],442
+6e70cf25-c653-4a30-925c-89725cce9681,Finance World Fans,"[12, 14]",443
+6f0fd506-84ac-4e00-ab02-39dcd07c011b,Gaming Hub Circle,"[2, 4, 7]",444
+6f574af7-f4e9-4e44-82c3-47f16f5016fc,Tech Talks Connect,"[7, 8]",445
+6febad8d-e498-4851-ae54-50dc144d0be2,Art Lounge Fans,"[3, 4, 10]",446
+70296631-d888-49ea-8957-5a492ab2b644,Art Lounge Corner,"[3, 9]",447
+705e1272-6f4f-4241-a97b-faf673ae0853,Gaming Hub Circle,[14],448
+707a9855-7421-4a0c-9518-1c866fe10da1,Finance World Fans,"[5, 8, 15]",449
+7087ad56-a5b5-460e-8907-4fe227e635f3,Art Lounge Connect,"[7, 11, 14]",450
+70bb084a-453d-4f43-9c7b-3fa5adf85c26,Gaming Hub Connect,"[5, 14]",451
+7100706c-e4ac-4675-93a3-8ee063dd0e81,Study Zone Fans,"[1, 3, 12]",452
+713fcf92-0b1f-4a8b-8511-10192c90ba15,Study Zone Connect,"[12, 13]",453
+715ede31-976a-4a1b-b8df-c12f798258d9,Study Zone Circle,"[11, 13]",454
+71d95cdb-e844-4b37-a25d-b3782f4e619d,Finance World Fans,"[3, 7]",455
+72743df5-88ff-473c-8c45-fddd670ca7ed,Tech Talks Connect,[6],456
+72d48ed0-30ae-403b-9f41-02412dfef92f,Gaming Hub Corner,"[1, 3, 15]",457
+732ecfdd-d075-4db2-988b-cd6ee9dc036b,Tech Talks Circle,"[3, 5, 11]",458
+73310614-d0c4-45c2-ad8f-f5c67011a014,Finance World Fans,"[9, 12, 15]",459
+73312b91-8432-4acf-964b-231395ad162c,Gaming Hub Connect,[2],460
+73c7d3f6-325e-49d4-8330-b02b2314a127,Art Lounge Connect,"[3, 5]",461
+73ca4348-9b7a-4de4-ab34-9609c2556cd7,Gaming Hub Corner,"[3, 5, 6]",462
+73f32614-02b7-4b7c-ac58-ad4086bd8bc9,Gaming Hub Corner,[15],463
+742747f0-7102-49ab-9e40-18663d393664,Gaming Hub Circle,[12],464
+7434255f-0d02-4017-aecf-27afc8ffbc29,Tech Talks Corner,[7],465
+744d5d72-5bce-4e6a-87d2-f2740298d563,Tech Talks Circle,[5],466
+746c6619-9f8e-4f2a-9093-1bacd47a3eca,Study Zone Circle,[15],467
+74be2230-639d-4fd5-a641-455967529755,Tech Talks Fans,[8],468
+7503d244-de53-47af-8054-931c1d89a5e6,Study Zone Connect,"[8, 14]",469
+7508a68f-327e-41dc-80f4-886268857db0,Finance World Circle,"[9, 12]",470
+750b15b2-baa7-45d8-894d-9c4b178c1bb9,Finance World Corner,"[5, 9]",471
+7570dbc5-3b64-44f7-b93f-8c5454e4851b,Gaming Hub Circle,"[1, 5, 11]",472
+759b50a7-7a07-48cd-9b3c-4cf81b5db99c,Study Zone Corner,[3],473
+75dac950-6685-490a-b0e5-4cc10e49fedc,Study Zone Circle,"[1, 15]",474
+75e65441-fd3a-4aa6-9839-da71cf10bbb6,Tech Talks Corner,[12],475
+7619e6bd-d0e3-4e8d-87ff-832a1c20a3f2,Tech Talks Fans,"[5, 14]",476
+762d51ee-36ce-441c-9792-8ab4cdaa54ee,Gaming Hub Circle,"[1, 9, 10]",477
+7636fc95-bf54-492e-8789-c6ff972e0e49,Gaming Hub Corner,"[6, 7, 9]",478
+7642ce39-746c-45db-ae21-8dd0bdf192d0,Study Zone Fans,"[2, 6, 13]",479
+76684108-342e-4275-a59c-5a4178af0c2f,Art Lounge Circle,[8],480
+76914c40-6d75-40e2-b22e-4b3c8bf21117,Study Zone Corner,"[5, 9]",481
+78614d8a-a22c-4f69-a81b-9cfb9b698e00,Gaming Hub Corner,"[7, 10]",482
+78eb9157-c2e2-4078-b7d3-6de54700368d,Study Zone Circle,[8],483
+790bbb95-a5be-4743-8abd-0c5249a2ecf9,Finance World Corner,"[1, 3, 15]",484
+792ff343-5a53-41bb-b610-81cfd059645d,Finance World Circle,"[1, 11, 13]",485
+7962f7c6-af85-4273-b1c3-a42ebe9286f6,Finance World Connect,"[1, 2]",486
+79d6d087-f98d-4fe4-94cc-f4b03245303c,Study Zone Corner,[5],487
+79d9ced8-e4b1-4940-b0a5-3bab29a78fdf,Gaming Hub Connect,"[3, 11]",488
+79ffee27-c1ff-4009-b8fa-68c0be4dfdf9,Gaming Hub Corner,"[1, 7]",489
+7a091bc1-d3e1-4279-bcef-c1b434df3a33,Tech Talks Circle,[3],490
+7a2446ee-9e32-4b78-b8a1-571658b4def1,Art Lounge Corner,"[1, 14, 15]",491
+7a93f8c1-d9e7-463e-bb47-549335d6dcb8,Art Lounge Connect,"[6, 15]",492
+7b122c2e-1cef-49c1-aaaa-ea1c7dcf8930,Finance World Connect,"[6, 11, 15]",493
+7bb93b68-dbdb-482f-816e-d5588cb973b2,Gaming Hub Corner,"[1, 7, 9]",494
+7be600e1-6170-40ad-8e42-2bd9ced58a0d,Gaming Hub Fans,"[1, 5, 15]",495
+7bf16ea0-91b5-4bd9-848d-27161b35d593,Finance World Fans,"[4, 7, 14]",496
+7cc293e5-1c7c-4133-86ef-0e0212a04bbb,Tech Talks Circle,"[7, 11, 15]",497
+7ce3a615-a3a4-4780-af53-e26770817f75,Finance World Circle,[10],498
+7d8217bb-f164-4cff-9670-f7c48ebe4336,Finance World Fans,[4],499
+7d87710f-b137-4119-9edd-e0835e38a665,Tech Talks Fans,"[5, 13]",500
+7da8f46a-9d9a-4146-8f84-7244469f4e94,Art Lounge Fans,"[6, 7, 15]",501
+7e5f6e7d-a7ca-4561-b7b1-9235ecb8dea1,Gaming Hub Fans,"[2, 3]",502
+7e656520-546f-41f7-ae64-ac884dd02d3d,Gaming Hub Connect,[2],503
+7e6ce1cd-a6f2-4c3c-b849-38fa42f8e231,Gaming Hub Corner,[1],504
+7ec35429-38cb-4b50-82ae-3aa19189caab,Study Zone Connect,"[4, 6, 15]",505
+7ed3dcb7-6319-433a-84af-be9e8773fa8f,Gaming Hub Circle,"[8, 11, 15]",506
+7f415beb-ab7d-4293-8f4e-211cd2a667c3,Finance World Connect,"[9, 11]",507
+7f5462aa-efc3-4d6b-9518-e8397862120b,Finance World Corner,[6],508
+7f6c5110-444c-4914-8c42-64b4282f510c,Tech Talks Circle,"[11, 13]",509
+7f768d4d-af15-4ee5-955a-1884308f3784,Study Zone Connect,[3],510
+7f7b27e6-b6a8-4935-bd92-6ba8cb2b6a8e,Finance World Connect,"[10, 14]",511
+7fa4fe04-d0a1-43e2-9e8a-4344a8d97e8a,Finance World Corner,"[5, 14]",512
+7fa983b3-69f0-4f18-92a2-e91d34da60ce,Art Lounge Fans,"[1, 6, 15]",513
+7ff22ae9-2233-4f02-b3d1-da62d2e69391,Gaming Hub Circle,"[1, 6]",514
+8046cfa1-6dcf-401b-8b0c-d525c542574c,Tech Talks Circle,"[5, 12]",515
+80544c2f-88dd-475f-bc6d-4d8bffc13588,Gaming Hub Circle,"[6, 13, 15]",516
+8054a382-5391-4f1e-aa50-3008ec8ccdc9,Art Lounge Fans,"[3, 6]",517
+8058ea2f-9837-49eb-ace7-1116f990092d,Art Lounge Circle,"[2, 9]",518
+80822960-6c71-467a-935b-0efda54268b5,Finance World Fans,"[1, 10]",519
+808f1f90-fa5d-47bf-9c73-6a3696b8c0d9,Art Lounge Circle,[7],520
+80bc10d2-86d1-47cd-aa70-d61a6a5701bb,Art Lounge Connect,[6],521
+80fffa7b-658e-4fb9-af63-8fa8651882e2,Art Lounge Fans,"[8, 13]",522
+810db99c-b55c-4eb4-b3d7-3c172e3849c3,Finance World Fans,[10],523
+813b8fa8-0542-4dcf-ab28-9d9bae6f0304,Gaming Hub Fans,[9],524
+814b25d3-3a1b-4c28-b5e3-392630bf009d,Art Lounge Circle,"[1, 5, 14]",525
+8169a148-e312-4b41-b1ca-094027c5cce0,Tech Talks Connect,"[3, 10, 13]",526
+817cf0c3-f4f7-4ad8-af7f-db337ad947bb,Tech Talks Connect,"[6, 8, 14]",527
+81ffce91-6e9e-41b4-96f1-4258f2c8a095,Art Lounge Connect,"[2, 6, 14]",528
+82305ae3-82cb-4439-ab69-3953275592f3,Study Zone Fans,"[3, 6, 8]",529
+825edb90-8350-4904-8a83-cd0c93f02e34,Gaming Hub Fans,"[3, 4, 11]",530
+830bd87e-c484-456a-a4bf-7bdf23e8c434,Tech Talks Fans,[11],531
+83b9c2c1-1f88-44b5-96df-75d18cb61ac6,Gaming Hub Connect,[15],532
+83d39e6b-ce67-468d-872e-956e277e8b4c,Gaming Hub Circle,"[3, 4, 14]",533
+83ef8605-ed1b-47b9-94bf-5917374f2a4b,Tech Talks Circle,"[2, 10]",534
+84283ab7-cf09-4e29-830c-be3e56fbc746,Finance World Fans,"[7, 13]",535
+8497865f-7580-47aa-ad62-bf472b21c170,Art Lounge Fans,[9],536
+8522ea1e-974b-480f-be73-8444f44f4d96,Art Lounge Connect,[9],537
+852c30db-d854-4357-b47e-d9eb7703c836,Art Lounge Fans,"[4, 9, 15]",538
+852ce720-1131-47ee-b8df-652a7d82ee64,Study Zone Fans,[12],539
+85517016-415e-48aa-843f-68593e4e63d7,Art Lounge Corner,"[2, 15]",540
+85713996-ebd7-4f42-93f6-3b3c5558ede0,Study Zone Fans,"[1, 2, 7]",541
+8588765d-f4c8-4210-827c-7af1096c3136,Finance World Connect,[11],542
+85990096-ab88-4cbc-beae-66062ec37023,Gaming Hub Fans,[1],543
+85e196f8-7dc6-4e02-9fcf-39d3e7b0d46e,Tech Talks Corner,[15],544
+8619f624-13f4-4f42-9d7e-5d3a7fdb66c7,Study Zone Connect,"[4, 8, 14]",545
+867c5bf5-ed5b-4c33-b0f5-470fdf846b1f,Gaming Hub Circle,"[5, 7, 14]",546
+868f404b-5328-49ea-a426-249ddea918e8,Art Lounge Fans,"[1, 4, 10]",547
+868f5f98-5389-46d6-8e4a-eabfcf1d8710,Finance World Connect,[9],548
+86a791d3-d329-406c-994e-6e4a3c30003a,Art Lounge Circle,"[5, 10, 14]",549
+86f4e4f6-48d5-4e9c-a6f0-ab220425aa32,Finance World Circle,[5],550
+877a818c-a99a-48aa-93b2-6873ac93115c,Study Zone Corner,"[2, 3, 15]",551
+87802c89-2275-44cc-b889-09a53c82c8e3,Study Zone Corner,"[1, 5, 12]",552
+87cbafbf-ad89-49d5-a92c-5120d3e78121,Tech Talks Fans,"[1, 5]",553
+8801ae4c-a1a6-4e85-b24e-98719b4d651d,Gaming Hub Fans,"[2, 7, 12]",554
+888d34a6-456d-4699-8b65-1604164482a6,Finance World Fans,"[10, 11]",555
+8930bc7a-b1f3-4282-925d-e5ddf63746cb,Finance World Connect,"[5, 14]",556
+89825cc1-ccc7-428b-a421-9737be2132c2,Art Lounge Fans,"[2, 5]",557
+89d0d990-7044-45e5-a9e1-f14360e7211a,Tech Talks Circle,"[7, 11, 12]",558
+8a568daa-8fbe-4745-9134-8d28dd487340,Art Lounge Fans,"[10, 13]",559
+8a71c68f-58e7-4e88-9481-b86cbcd1ce12,Art Lounge Connect,"[1, 4, 8]",560
+8a8bbc2f-8ca7-4b43-86b2-f972dc8cdcec,Study Zone Connect,[14],561
+8aa5aba5-dcfd-4216-88eb-70bd7465bab9,Tech Talks Connect,[5],562
+8acba88a-9194-4a4a-83d6-364eb64c696b,Gaming Hub Connect,[13],563
+8ad1a92c-492e-4bc7-9db2-2e04b5643871,Finance World Fans,"[3, 12, 13]",564
+8ae2a4f9-50f3-4a07-aa99-fbe763a7330a,Finance World Circle,"[6, 12, 13]",565
+8b06645d-b49e-4ad5-9065-b9876d9b937d,Finance World Fans,"[2, 9, 15]",566
+8b1014dd-5d47-4bf4-b2c8-7ad35218e91f,Finance World Connect,"[6, 11, 14]",567
+8b278191-1502-4b3b-9c84-f2b30bed48e8,Tech Talks Fans,"[6, 13, 14]",568
+8bf6e9ec-50d8-4e17-af1f-516deb6c7ae1,Art Lounge Circle,"[4, 7, 13]",569
+8c50cbd0-ef46-4b75-9894-5aff1d3a96d1,Art Lounge Corner,"[1, 8, 10]",570
+8c54c497-522d-4193-9256-1d5bb8200aaf,Art Lounge Corner,[12],571
+8d2859ee-b6ad-49e8-a734-fe8b8e428f84,Tech Talks Corner,"[6, 10]",572
+8d563d80-f675-4155-956b-d36094efd98f,Gaming Hub Connect,"[13, 15]",573
+8d72798e-d1db-4f4c-913b-d4149c8975e8,Tech Talks Fans,[15],574
+8d81ed3a-ab32-4671-9fa4-4642c4a63c6e,Art Lounge Circle,[12],575
+8e0fb340-c3af-487b-9437-267655d87fbf,Art Lounge Fans,[8],576
+8e4994ee-b3a8-4f6e-94cb-12f42d441aaa,Finance World Corner,"[1, 7, 14]",577
+8ebd954a-2659-4d93-b90b-9cf30dbbdb8c,Study Zone Circle,"[12, 13]",578
+8ec6c172-a412-44f1-89c4-51fe3eb2bc28,Finance World Fans,"[13, 15]",579
+8eccf0ca-80c8-47de-94e1-222b17510420,Gaming Hub Fans,"[8, 9]",580
+8ee18d36-207f-4290-80a5-c1b4700c631b,Study Zone Circle,[7],581
+8f176e3d-e4ee-4667-b704-b74603a6a1a4,Finance World Connect,"[1, 11, 13]",582
+8f1cb682-20cf-4cac-bc53-db75901fd69d,Finance World Connect,"[5, 9]",583
+8f2ee39e-cddf-4c0e-99b0-b6a02a1bfc7a,Tech Talks Fans,[13],584
+8f3700c6-e46a-4887-a54f-8af339886f4e,Gaming Hub Fans,"[7, 10]",585
+8fc34bd0-a741-4ec1-a144-7ecfc95bf8e5,Study Zone Corner,"[2, 9, 11]",586
+905bde92-e479-428e-8d49-208a4b1ec8c6,Gaming Hub Fans,[10],587
+90613804-fa02-4cf3-8887-2cac9b6e19df,Art Lounge Corner,"[2, 15]",588
+907dc9f6-9728-4a1f-843b-f593470ca3ec,Art Lounge Circle,"[7, 12, 15]",589
+9123d722-d35c-4e57-83c2-08309c667bde,Study Zone Circle,"[6, 10]",590
+926f0418-a2b1-473a-804c-1eb8ea5c1b68,Gaming Hub Fans,[1],591
+92b13459-a34a-41ff-aa77-875714d8ae7b,Study Zone Fans,[11],592
+92e45795-a7be-42b2-9e7d-a4b7340b4a02,Study Zone Circle,"[1, 10, 12]",593
+92e917a9-d4fd-45d2-87a2-ca1bb099191a,Gaming Hub Corner,"[13, 14]",594
+932df347-acca-4dc9-a465-f7b5bdb9f7e5,Gaming Hub Corner,"[2, 12]",595
+933ec0df-4976-4a3b-ba5d-d8ab5315e213,Gaming Hub Circle,[3],596
+936049fb-41cc-4b9b-9c58-9fb22c752548,Finance World Fans,"[3, 7, 9]",597
+94310b41-08c2-4745-a452-8912c7081cb9,Art Lounge Fans,[4],598
+946fb6bc-1160-4265-8522-76e0b246eae8,Gaming Hub Corner,[7],599
+947f06ea-5234-4660-be9e-a0f694fd0080,Art Lounge Connect,"[1, 3, 9]",600
+94921345-11a4-476a-8004-c41413c90249,Finance World Circle,[4],601
+94feef5b-4d2e-4266-b063-1f3acc17c04a,Tech Talks Connect,[3],602
+954f067e-b328-4977-a49f-542bd75a4508,Study Zone Circle,"[4, 10, 13]",603
+9550bcac-6844-472f-b142-8bff64f42009,Art Lounge Connect,"[3, 12]",604
+95820fd0-188d-4bd0-a065-812135701143,Art Lounge Circle,"[4, 8, 15]",605
+958cafa0-f87e-4be8-bfbd-5ff02f5854fb,Study Zone Fans,"[2, 14]",606
+95c8235a-4c19-4344-a9d6-320d4350fef9,Tech Talks Fans,"[2, 5, 8]",607
+9664e934-6f0d-4eb0-945b-b1d4dc267db0,Art Lounge Corner,"[7, 14]",608
+96ca3dca-bd6d-44f3-9775-0f3826221511,Tech Talks Fans,"[9, 13]",609
+9738fd40-6133-48db-8fc4-fa42145e55f6,Tech Talks Connect,[4],610
+979845c8-c4cf-4d4a-aa97-2ca9ca2a5b46,Finance World Fans,"[13, 14]",611
+97f49822-6ce8-45c7-a288-c6bb02d6ae02,Finance World Fans,[7],612
+97f7b724-85a3-408e-80ee-20c359af304a,Finance World Corner,"[2, 13]",613
+97fefe0f-2f05-43fd-a547-4222d07db434,Art Lounge Connect,[1],614
+982f13eb-4949-483e-a81c-80226ef71ead,Study Zone Circle,"[3, 11]",615
+98466cec-1294-45f5-9623-89dc58949778,Study Zone Corner,[10],616
+98977d55-638f-454b-af81-237206c1e4f2,Art Lounge Circle,"[9, 12, 13]",617
+989eb586-f3ea-430b-b921-99f7f454d586,Art Lounge Corner,"[2, 11, 12]",618
+98a3aa60-c628-413a-b2df-7e7dc0cbb157,Gaming Hub Circle,[11],619
+98b05c26-6004-4dd3-a3b7-3cf47d314901,Art Lounge Corner,"[2, 5, 8]",620
+990d5804-f195-4aef-9d39-17a94c04c702,Gaming Hub Corner,"[2, 14]",621
+993009ea-a9eb-4d85-b21d-deab06f0f31b,Finance World Connect,[6],622
+993c0658-086a-42bc-b2cd-558b631a95cb,Tech Talks Circle,"[5, 10, 13]",623
+99589bd8-9e2b-4b0d-ab4a-f31476e7f9bb,Tech Talks Fans,"[1, 8, 12]",624
+9991049b-9f1c-43ad-a52d-fa247a006dbb,Finance World Fans,"[12, 14]",625
+99db45ef-f54d-4df0-b134-4344f87e4aef,Tech Talks Circle,[9],626
+9a6057aa-a10d-4923-a4de-1379f744d68c,Art Lounge Corner,[5],627
+9ae6f0d6-66c6-4d08-8c8e-50fdda9e474e,Tech Talks Fans,"[4, 7, 15]",628
+9ba4c3ac-462a-488f-9761-3b0e4f5c9629,Study Zone Circle,[13],629
+9be356a3-131a-47b1-9d21-826ef5ea76d0,Gaming Hub Corner,"[11, 15]",630
+9c8a519f-8c06-4143-9430-04812605bff5,Tech Talks Connect,"[8, 14]",631
+9ce76cb1-d2b7-4177-98e0-b2f5bea6615a,Art Lounge Corner,[9],632
+9cf010d2-ecf4-4ddd-a264-7b0c8076c629,Finance World Circle,[14],633
+9d084fd0-dd4b-4bb2-832f-bae2524aed83,Finance World Corner,[7],634
+9d2c7436-6aac-402f-9bfa-7c55e19f4b01,Art Lounge Fans,"[6, 13]",635
+9d34a3fb-67ba-45cb-bd78-f9440a7a1cce,Study Zone Corner,"[7, 12, 14]",636
+9df7cb48-dac0-4104-910b-8b29df87314f,Art Lounge Connect,[5],637
+9e1e01b6-7720-4f7c-bdfa-1c7ff27b6d56,Study Zone Connect,[15],638
+9e859a90-3043-47f2-85be-72d99564f7ad,Art Lounge Circle,[11],639
+9ec5e3fd-ae17-45fc-854b-4707bda060b0,Finance World Fans,[7],640
+9f32a128-f982-43e5-aa31-58983d6093f1,Art Lounge Connect,[7],641
+9fb7de21-8d23-49b2-a13a-62c57325aaf3,Tech Talks Connect,[13],642
+9fe20bf6-a32b-4c0b-9da3-560dcc7af740,Finance World Corner,"[7, 13]",643
+9ff62994-e293-40e4-a162-795ec23264a2,Finance World Connect,[9],644
+a0045193-5670-4a9b-9189-c76083394dab,Gaming Hub Fans,[4],645
+a00d0f76-8fc6-436e-a5f5-577904562aff,Study Zone Connect,[6],646
+a05cf513-ee59-4555-98c5-1490379f69ea,Tech Talks Connect,[1],647
+a091bf1e-e177-4317-84c6-c3a96bfb258c,Art Lounge Fans,"[4, 9, 10]",648
+a0b979e0-3bb1-4837-93e8-c2d6d991120a,Gaming Hub Fans,"[3, 10, 12]",649
+a0e29608-0da2-479b-b0d4-0de02c3afe02,Finance World Connect,[7],650
+a18b49c7-155a-4454-abbc-571306fe8556,Study Zone Circle,"[4, 5, 10]",651
+a1cc3fdf-72fd-48e6-ba6b-ed13b16d170e,Tech Talks Circle,"[2, 3, 6]",652
+a1e41eb8-e1d6-46c2-a110-0dedc4d6a947,Study Zone Connect,"[3, 8]",653
+a25ad1f9-4a99-46ef-9d67-01ffb6e3463c,Tech Talks Fans,[7],654
+a2832ee1-4b57-4a28-85c6-6cac37711fe4,Tech Talks Fans,[14],655
+a2c3f138-d377-43e3-b145-4e7907851866,Finance World Fans,"[11, 14]",656
+a2c57a36-70e7-40bf-a91f-8818af8c75b2,Study Zone Fans,"[1, 15]",657
+a2e7c98a-ce84-4735-916b-1b51a33c4031,Tech Talks Circle,"[1, 12]",658
+a3465260-250d-4f1d-9f9c-24706cb2dcca,Art Lounge Connect,"[7, 15]",659
+a36270ca-c79c-4757-a6a0-9b1697bbf90e,Finance World Circle,[8],660
+a3e263f9-84e7-430b-aba5-175ee286e003,Finance World Corner,[7],661
+a4027781-bcfd-4768-ae65-bada51c703e2,Art Lounge Connect,"[7, 8]",662
+a43a2513-5c9d-437b-968c-d1f6eb9ac459,Gaming Hub Circle,"[2, 12]",663
+a469fff3-4a7e-42a1-a1bb-6efce2b63240,Study Zone Corner,"[3, 11]",664
+a4854db4-c862-4553-9ba3-a858739fb2e8,Art Lounge Corner,[8],665
+a4b4eb39-2d9f-4f79-951c-e8ba31030969,Study Zone Fans,[6],666
+a51bcbfc-af8e-4438-8f97-66c2524f4e4a,Gaming Hub Circle,"[3, 14]",667
+a531b0e2-4d74-41a0-a47e-6abd9a58b886,Finance World Fans,"[2, 4, 10]",668
+a5952fc3-ee8f-4f6a-8019-e7272ecbb200,Gaming Hub Fans,"[2, 6, 11]",669
+a5b58c78-c231-4ff5-b95e-52ebbd9191d1,Tech Talks Connect,[5],670
+a5daf508-33b4-4f9d-825a-97756a4252e0,Gaming Hub Circle,[14],671
+a620e95c-ed73-4f05-8d2e-895754600c1c,Art Lounge Fans,"[2, 6, 14]",672
+a634e426-429e-4651-ac21-d47f94424c73,Tech Talks Corner,"[8, 11, 12]",673
+a668010b-504c-4eb1-b72f-1876c669dc24,Gaming Hub Corner,[14],674
+a6914736-fd92-46e7-9699-96300a8d0e00,Finance World Corner,"[2, 8, 14]",675
+a7883dbc-18c3-4ac2-9319-69b1c40e9cba,Finance World Connect,"[3, 14]",676
+a7b7ba6a-e74b-4bc4-a2b5-5afeba611ca3,Tech Talks Connect,"[8, 10]",677
+a8b9951c-40b4-4241-acdf-50e31c587675,Study Zone Connect,[1],678
+a8d0e889-1c2f-4ac8-98d0-6a73d7bf3eb9,Gaming Hub Corner,[1],679
+a8fa096a-97e5-4c9f-bbf2-f00dafbbdb04,Art Lounge Corner,"[3, 4, 7]",680
+a925ef6c-2e3c-4ccb-b13b-48da1f0b4424,Art Lounge Connect,"[6, 7, 11]",681
+a9760572-0dfb-4eb3-b678-853e90e17699,Gaming Hub Corner,"[2, 3]",682
+a9cdf524-2698-4621-bae2-f5b6982ba332,Tech Talks Corner,"[7, 14]",683
+aa5d47d9-55ce-4aac-adfa-c4b4b4d46205,Finance World Connect,[10],684
+ab16a03d-05ba-480d-928b-2f5164c582ce,Gaming Hub Circle,[10],685
+ab77d3e2-872f-4576-997a-7cbe8c414f15,Finance World Connect,"[5, 8, 12]",686
+ab808a33-5f15-451d-a5bb-be69092d1bb0,Gaming Hub Circle,[2],687
+ab8dee38-0a8b-428a-ac55-644591e7b1c4,Finance World Circle,"[5, 6, 13]",688
+abe8dc85-f909-4fe7-8e39-a4d44d72a296,Tech Talks Connect,"[2, 4, 11]",689
+aca8d132-86ed-40f7-b8fa-be770a0ef3fa,Art Lounge Circle,"[3, 10, 14]",690
+acc04f95-cb69-40f3-97c1-a31c35a9a343,Gaming Hub Circle,"[5, 9, 12]",691
+ad09f8fa-39fa-402b-a859-05a3ef5621ce,Gaming Hub Fans,"[13, 15]",692
+ad59862e-8bc2-4b19-a242-4cb57f11455e,Study Zone Fans,"[3, 4]",693
+ad72e001-7a46-48fd-8e59-9409da6fa5a5,Finance World Fans,"[10, 15]",694
+ae4db980-c09a-4b8f-95c4-dc4b393b5cd6,Finance World Circle,[1],695
+af060007-0aea-45d0-9b3d-05269ddc34f1,Gaming Hub Fans,"[7, 8]",696
+af421ad7-af85-4bc0-9070-e2aed897b200,Gaming Hub Circle,[12],697
+af66319e-8cb8-4198-a9de-ade57a5f4e55,Art Lounge Circle,"[7, 9, 15]",698
+afa18dd6-beca-4676-8f95-675b6b34ab18,Gaming Hub Corner,"[1, 2, 4]",699
+b061a5ec-d49e-4b25-8e53-6b0f023a2d1c,Tech Talks Connect,"[7, 8]",700
+b07324ba-38d3-4435-9346-35b936090143,Art Lounge Fans,"[4, 10, 14]",701
+b0b8d762-236e-4e2d-90c2-fa2fb8a74382,Study Zone Circle,"[10, 12, 14]",702
+b141dd2d-a554-417f-bb7f-b0487e4902c5,Study Zone Circle,"[3, 5]",703
+b17c3d1d-a175-4204-b936-5ed6ad0ecca6,Tech Talks Fans,"[3, 8]",704
+b187d925-21a7-4899-b126-c1baac7f3fb9,Art Lounge Connect,"[1, 9]",705
+b189a966-aa84-4e03-85e5-70a0f01addff,Finance World Circle,"[2, 9]",706
+b25a44ca-e310-41b9-a134-547f33a733dc,Tech Talks Circle,[11],707
+b28762d8-4eca-4e94-9fc2-ef809b4d9a6f,Art Lounge Fans,"[5, 7, 8]",708
+b28d0b33-41b7-418c-a649-8d21707435ea,Art Lounge Fans,"[5, 14]",709
+b2ac1fb7-98e7-472f-80d5-27b1adbec6c0,Study Zone Corner,[2],710
+b2ad50a7-bc9d-4907-95d6-916cb11c7564,Art Lounge Corner,[14],711
+b2dee53a-c944-4b17-b587-8c25285666fd,Art Lounge Fans,"[8, 13]",712
+b3153b0b-f8f9-4e5d-92d5-7839e85d661e,Gaming Hub Connect,[1],713
+b327961a-5085-4fca-8a32-f3a5af9c8bd5,Tech Talks Circle,"[9, 11, 12]",714
+b33e1b61-52fa-4c17-af44-ba351078f242,Tech Talks Fans,"[5, 15]",715
+b3441a36-1552-4c5b-a5bc-acaa5e07d384,Tech Talks Circle,"[6, 9]",716
+b3fa9e09-5d11-479a-8610-159455df4ac3,Gaming Hub Corner,[10],717
+b4209785-e934-4b62-904a-caef5d127666,Tech Talks Corner,"[3, 8, 9]",718
+b497c9d7-6465-4419-92c4-17adc7fe5bfc,Finance World Connect,[6],719
+b4bd9119-3f79-4f65-b940-a6a1ee16da92,Finance World Corner,"[5, 10, 14]",720
+b51c6895-abc6-4d80-8ae5-957eb9d50a4a,Study Zone Corner,"[2, 6, 14]",721
+b5395f06-f916-4542-aaa0-21d48d6c1567,Art Lounge Connect,"[1, 8]",722
+b556bcd2-06fb-4728-9b59-8e0125e37f0d,Finance World Fans,"[3, 8, 15]",723
+b5f970fb-a3cc-476a-b735-3bca4f21e1f6,Finance World Circle,[10],724
+b6280e4a-163d-477b-9519-c8cf9b8142ea,Art Lounge Corner,[3],725
+b6752230-ed46-4169-8110-5c2320965234,Finance World Fans,[10],726
+b67f8d9c-f628-40b4-ba0e-13cc3e5fd0cf,Study Zone Connect,"[1, 4, 14]",727
+b72ece1d-ae22-4ac2-a28e-e8c5d34fc65e,Finance World Circle,[11],728
+b7d45340-8dc0-4d45-aa8e-7eb7857fd61e,Gaming Hub Corner,"[1, 7, 8]",729
+b7f264b2-8efe-4301-a9bd-667c1fd59d64,Finance World Corner,"[7, 8]",730
+b818b51e-af04-458c-8aad-94efaba59414,Tech Talks Circle,"[7, 9, 11]",731
+b834508b-6004-4505-a38f-681f547a1961,Art Lounge Corner,"[7, 10, 14]",732
+b92b575c-abb0-47a9-b0bd-1540bfc7c299,Gaming Hub Fans,"[6, 7, 12]",733
+b9c0fcb2-23f7-4d09-ba10-bd59eada578c,Tech Talks Circle,[15],734
+ba682fa2-86ab-4567-97cd-defb90c42751,Art Lounge Connect,"[4, 12]",735
+baa67aef-7f23-4d48-bd0c-12ba003991cd,Art Lounge Connect,[3],736
+bb911b52-8509-4d84-9d71-519c4c367379,Art Lounge Corner,[6],737
+bc0de499-3d58-46be-a112-c8c37649c2e3,Gaming Hub Connect,"[9, 13]",738
+bc650eba-6d31-43e4-a4b3-71dabedcaf75,Tech Talks Connect,[3],739
+bc85998c-8ee1-42af-9775-18d4bd087b6b,Gaming Hub Corner,[3],740
+bcade1d7-48a5-45b1-9dd8-00d36fea399b,Finance World Connect,[1],741
+bcc7416c-69a5-4dd8-934a-2b9ae287f8a1,Finance World Corner,"[5, 7, 9]",742
+bcff02f4-252d-46d7-a58d-0b3b4bba4dd8,Tech Talks Circle,"[2, 12]",743
+bd45e4ef-59d4-4a4f-ba8c-1886076897e8,Finance World Corner,[14],744
+bd66465b-efcf-432b-b464-0102c611c9cd,Tech Talks Corner,"[4, 10, 11]",745
+bd75a03d-b9de-48e4-b50e-9fceced58e79,Finance World Connect,[5],746
+bd8d5a11-26c4-47f1-9013-0cd0c70df686,Study Zone Corner,[10],747
+bdc91a20-1afa-4460-809e-430100e968ee,Gaming Hub Circle,"[4, 6, 10]",748
+be9668ea-30b1-4c8c-bcbc-748b1caba644,Study Zone Connect,[5],749
+bee23154-f3d3-46db-9b3f-4924201e6630,Study Zone Circle,"[9, 11, 13]",750
+bf442d1b-b49f-4ad5-aeeb-15054bdcd637,Study Zone Fans,"[7, 8, 9]",751
+bf6455fa-ff85-4bd2-8323-81fe9a9bd9bb,Finance World Connect,"[8, 9]",752
+bf6e6cdf-1b89-488e-8ae2-d097c8d63a28,Gaming Hub Fans,[2],753
+bf6e7bc4-97fc-428f-867a-484fadc65019,Art Lounge Circle,[1],754
+bf84f2a1-3617-4222-8ce6-d4d82d0a83a9,Gaming Hub Connect,[1],755
+bf898779-5b46-48ee-88f3-73c8121f9125,Art Lounge Connect,"[12, 14]",756
+bf9a35dc-0fee-425b-be30-e9051ae83436,Tech Talks Circle,"[3, 7]",757
+bff14ec6-8893-4186-b0bc-0117e1657720,Gaming Hub Connect,[8],758
+c01c36f6-5422-4d56-bf5e-020e2f485343,Art Lounge Circle,"[4, 10, 13]",759
+c03063a2-d2d3-4027-aba7-785df437dd25,Tech Talks Corner,"[3, 4, 15]",760
+c07d26f5-5aab-40f1-96df-6eb9984bee82,Art Lounge Fans,[15],761
+c0f828b1-e99e-4563-b2c3-34a421b56c10,Tech Talks Circle,[6],762
+c155a47a-32ea-49b2-85da-34ea4aa1c4e9,Finance World Fans,[13],763
+c164ba0a-7972-437c-83e6-376fc1a44c9c,Study Zone Circle,"[10, 14]",764
+c2dfd5a0-8b26-4883-b6a0-b86178455199,Tech Talks Circle,"[8, 15]",765
+c2f23d79-135d-4740-8f49-37dbd967427d,Study Zone Fans,[14],766
+c2f9ff77-1d6d-43a5-b05d-a3e3cb62ed22,Tech Talks Connect,"[6, 7]",767
+c37b5a08-4f04-499e-b313-e78f82460c00,Gaming Hub Fans,"[4, 12]",768
+c38f7320-61de-4e41-9b14-1551b6283fc7,Finance World Fans,"[7, 9]",769
+c3be3f96-f53e-4f59-aa24-834fe20b18df,Study Zone Corner,"[3, 12, 14]",770
+c3d68ff8-f31a-45a7-a827-aae0673e399a,Art Lounge Circle,[7],771
+c3de624d-62ee-44d4-840b-c5adbb81bb1b,Study Zone Circle,"[6, 11, 14]",772
+c3ee1b9f-1a5a-48a5-b9bf-7587e17d62f3,Gaming Hub Connect,"[5, 9]",773
+c43681bd-94a9-4b19-929b-7ef6e6b54b0c,Study Zone Corner,"[11, 12, 14]",774
+c44fa07f-5997-4f46-b0ad-3ebb0f9a9beb,Tech Talks Connect,"[1, 4]",775
+c463e24f-a16e-4db6-8972-1eb137c35c8b,Art Lounge Connect,"[2, 11]",776
+c4c5bfb3-abc5-46b6-917f-0e9cd464d14f,Study Zone Connect,"[4, 8, 14]",777
+c4e52865-979b-428b-9690-a52daa7ca40d,Art Lounge Fans,"[5, 9, 11]",778
+c4fca73d-7639-4f90-ad3c-d085f0c1b042,Finance World Connect,"[3, 6]",779
+c534f727-f426-4a67-9c86-d1586928e00c,Gaming Hub Corner,"[11, 15]",780
+c53b59d4-20fa-4b93-a873-34a0449e0801,Finance World Fans,"[5, 14, 15]",781
+c5c0ee4c-9142-4fd2-ac57-32b9ef28f203,Art Lounge Circle,"[3, 10, 13]",782
+c62b15e1-2daf-47c4-ba9b-ae54dee3bbd6,Gaming Hub Fans,"[3, 6, 13]",783
+c62e6a02-c0bf-4873-b9d9-8b0311830eb6,Art Lounge Fans,"[3, 7, 11]",784
+c662c240-be89-412d-ace0-72f0b4a5dc1f,Gaming Hub Connect,"[2, 5]",785
+c66a023d-12a9-4f02-b79c-d9647a0a45ab,Study Zone Circle,"[9, 12]",786
+c6eeed90-67c7-494e-a0df-c2cf7f429293,Gaming Hub Circle,[14],787
+c705682d-bfb2-4914-9205-ee80c815b3c3,Finance World Connect,"[6, 7]",788
+c7312982-0535-4778-a799-84ff4a023619,Art Lounge Corner,[15],789
+c731f8f7-cb46-418e-abec-ebe649810bb4,Gaming Hub Connect,"[6, 7, 15]",790
+c73f5ef5-ad24-4b16-a251-b831cd5ba8cd,Art Lounge Circle,"[3, 14]",791
+c75fe648-9259-4b54-8a8e-297333afb178,Tech Talks Circle,"[1, 9]",792
+c76cd90a-e1f9-4220-8cd3-0e6f39d951df,Tech Talks Circle,"[8, 11, 14]",793
+c78e2301-058a-4510-a88a-db2ba5cd0a7f,Finance World Circle,[11],794
+c8054cda-e57a-4914-bbfe-c43bcf42ae9c,Study Zone Connect,"[4, 9, 11]",795
+c80d0763-736a-40ee-acf5-7c223e3f38d4,Gaming Hub Fans,"[2, 6, 8]",796
+c833fd07-24a3-46dc-b1c9-223d3d233edc,Study Zone Corner,"[9, 15]",797
+c83600da-1e6d-47b8-a65a-a94ea4d5462e,Study Zone Corner,"[9, 10]",798
+c8670793-19a5-4b5d-a60d-45878cd8095b,Tech Talks Fans,[14],799
+c8a1e3f7-72b5-42a0-8052-db6951577986,Art Lounge Circle,"[6, 9, 12]",800
+c8c490e4-edbd-46d8-9345-811d3194f271,Art Lounge Circle,[14],801
+c8feabbd-3d14-400c-af21-7886b627a9cd,Gaming Hub Circle,[10],802
+c9a345db-c6de-4b83-a496-2eece9a952be,Finance World Connect,[3],803
+c9a7aeed-90ed-4813-92e5-f99e34676c8f,Study Zone Fans,"[8, 12, 13]",804
+c9ae76ee-4831-47f3-9658-c0b1bdcaca7f,Study Zone Circle,"[6, 8, 13]",805
+c9fbfb86-3a18-4be2-a1f9-06cde338df4c,Tech Talks Circle,"[7, 8]",806
+ca41921c-6467-4b5c-9f3e-e0c58e982e74,Tech Talks Circle,[1],807
+ca85a31c-a31f-443c-ae17-ee6c64ef13ee,Study Zone Fans,[3],808
+cabd73d6-b373-4834-b605-0a6c975548fc,Study Zone Circle,"[3, 5, 9]",809
+cad82dc6-d870-46aa-8655-312d1e607407,Art Lounge Circle,"[10, 11]",810
+cadad799-06a0-4ea3-97c5-4901db6fcf8e,Gaming Hub Corner,[15],811
+cb054a4a-7045-4eb1-9c61-6b492aea8abd,Art Lounge Circle,[7],812
+cb280c5d-9b15-492a-bc07-6b79e8032796,Study Zone Connect,"[5, 6]",813
+cb36c5f2-9b18-4aa0-94db-dad0d17210be,Gaming Hub Corner,"[2, 9, 13]",814
+cb7eccce-afd5-40c3-8959-8da35ad0d322,Art Lounge Fans,"[6, 7]",815
+cb972726-1baf-46b7-8f8a-b73ebe5066df,Study Zone Connect,"[4, 9]",816
+cbbfcdd2-3769-4f00-a682-b211b7cc1257,Gaming Hub Fans,"[1, 8, 10]",817
+cc317f1a-56f0-4f8d-8cf4-35adb7c6d95c,Art Lounge Connect,[13],818
+cc43ee02-10aa-4016-b5d5-ed761bc9f6cd,Finance World Connect,"[9, 12]",819
+cc53829a-ba26-4b60-945f-334ed67ab26b,Study Zone Connect,"[2, 8, 9]",820
+cc8e96cc-e6c1-4ced-bf6d-5e983bf2a7fe,Finance World Circle,"[4, 5, 8]",821
+cdc69d5f-e3f6-4b38-960e-1fddbb491516,Study Zone Circle,"[1, 8, 10]",822
+ce1d6dcd-4336-4c44-8060-d53c4256b9b4,Tech Talks Fans,[9],823
+cefd0816-8fd3-4a36-8ccb-0c4a88613215,Art Lounge Circle,[9],824
+ceff437c-4857-4dd8-9121-3079acefc91c,Tech Talks Corner,"[11, 15]",825
+cf8d94ee-7daa-421c-9558-bd6eb86d85e7,Finance World Corner,"[12, 15]",826
+cfcb5171-6830-4a29-8eef-71f4f0174764,Tech Talks Circle,[5],827
+d047d6b5-8144-4bce-8b70-5a5c7161a663,Gaming Hub Corner,"[6, 9, 15]",828
+d075851a-e80b-4ecd-a4b5-08cd8cb38aa0,Art Lounge Circle,"[7, 10]",829
+d0ab6b40-b034-434e-8688-b9a6d2dcb71f,Art Lounge Fans,"[4, 15]",830
+d19c4fdc-debe-4888-8465-58edf4472b4d,Art Lounge Circle,"[2, 9, 11]",831
+d1a6493a-432c-4f4c-a192-b5b3a2599dff,Finance World Fans,"[2, 12]",832
+d1af21b5-1291-4fb9-9579-80d4d7339761,Tech Talks Circle,[15],833
+d1c26513-052c-47e0-816b-2de4400ec081,Art Lounge Circle,[1],834
+d1d726d5-ee06-4abe-9c66-343dfc45471a,Gaming Hub Circle,[4],835
+d2322b8e-ea26-4125-9f21-73fb439a52f6,Study Zone Connect,"[10, 15]",836
+d24f56b8-7e20-4900-a5e6-f91c12f693a6,Gaming Hub Corner,"[1, 9]",837
+d25ce2f5-3ab5-4f2a-b671-773b75ae9774,Study Zone Connect,"[1, 2, 11]",838
+d277ffa0-82d0-4fde-ac1f-5033d96e6e49,Finance World Corner,"[4, 9]",839
+d28f7235-59f9-4ab4-8290-dacd8805ef5c,Finance World Corner,[3],840
+d35b0f22-26be-4a78-93d3-d347d78f7870,Gaming Hub Corner,"[4, 13, 15]",841
+d390efb4-6689-4d4d-b769-05904ed3fc58,Study Zone Fans,[4],842
+d396fe26-a98e-48bc-a330-b88c188fd455,Finance World Fans,"[1, 5]",843
+d42103b1-4471-4286-9869-b960eee80f7c,Gaming Hub Corner,"[1, 15]",844
+d460b658-d61d-4de7-a232-09e418f44a69,Art Lounge Fans,"[1, 3, 5]",845
+d464c9b6-546a-419f-b773-f2995d298fbb,Tech Talks Corner,"[4, 6, 11]",846
+d4841702-0dfd-4402-bd40-72085189b61d,Finance World Corner,"[2, 14, 15]",847
+d48b1f10-0973-403b-96ba-73f847970ea6,Art Lounge Circle,"[6, 10, 12]",848
+d4a0d9e2-7f18-49bb-924a-4b9ee4625ca4,Gaming Hub Circle,"[5, 9, 12]",849
+d4cb469c-a66b-4b1d-b38b-2dc8e3da17a8,Art Lounge Connect,[4],850
+d4cd24a1-775f-43c7-ba9c-f8f17df1f5d5,Study Zone Connect,"[4, 13]",851
+d4e41584-39c2-487b-b7d4-658f8315de99,Art Lounge Corner,"[13, 15]",852
+d4ff538d-30a4-4999-8b08-71211b1df856,Gaming Hub Fans,"[1, 2, 15]",853
+d547be39-416f-465c-8e02-50bb92da6ed1,Tech Talks Corner,"[1, 8, 15]",854
+d67aec23-0752-44e9-b1c3-339eafb271f4,Tech Talks Circle,"[1, 5, 11]",855
+d68c3c80-9a21-46ae-b255-12a7ab5135cb,Gaming Hub Circle,"[2, 5]",856
+d6d0630f-6de1-4e9b-b8e5-63633e8dad70,Tech Talks Circle,"[3, 13]",857
+d6f59b2b-5e16-451b-87fc-ccfe821762e0,Tech Talks Connect,[1],858
+d7064f90-acd1-4d93-bd73-c8b1c2df108f,Study Zone Corner,"[9, 10, 15]",859
+d7eba915-5513-40f8-9f75-d90791eb8558,Study Zone Connect,[4],860
+d7ef7139-8864-4cb5-a305-7d37f6c4aa18,Art Lounge Corner,"[5, 13, 15]",861
+d7f908ec-c8ac-4957-8fac-03d90599427d,Art Lounge Connect,[14],862
+d804d8ff-507c-4f0d-a1d4-818972b8428c,Finance World Connect,[5],863
+d894d56a-f645-4d9c-a45a-a81041e5b1ac,Art Lounge Fans,[6],864
+d93d940a-fc0c-4cdc-b32d-6f8b0b5b5255,Art Lounge Corner,[3],865
+d96a0e47-65c7-419d-9879-0023d121dff4,Finance World Corner,"[4, 5, 7]",866
+d9872be2-485e-49c6-90ec-a93fc09a2fe5,Tech Talks Circle,[2],867
+da744697-3ca5-4fde-8af4-a6aa97eff409,Finance World Corner,"[11, 13]",868
+daf1ce56-c506-48fd-9087-a1c2edaa2e4b,Art Lounge Connect,"[1, 4]",869
+db0e6c08-5e0e-4382-8529-94777cb5a9b5,Art Lounge Fans,"[8, 11, 13]",870
+db2e63a5-53b3-47af-a3ff-1c33ec608a32,Art Lounge Corner,[2],871
+db57fb56-dee2-460a-8751-bae332a0a07e,Gaming Hub Connect,"[8, 15]",872
+db84f77f-557f-4b94-97f1-051da8779fe7,Study Zone Corner,"[1, 9, 11]",873
+db8ea4f7-2012-41ee-b0bf-cd03f5f4da00,Finance World Connect,"[3, 9, 14]",874
+db9d467f-49ee-4e63-8ed4-83935bdfe41e,Study Zone Circle,"[6, 12]",875
+dc3345ef-1f5d-41fb-9e2b-0348faa36a0a,Art Lounge Corner,[8],876
+dc7c2a32-8059-4f1a-8559-3e8cb7314381,Tech Talks Connect,"[2, 5]",877
+dcde0c6d-6fed-4917-8615-ddb27803f3f0,Art Lounge Circle,"[7, 12]",878
+dd3874ba-33c7-4b66-a208-1121aea53b84,Art Lounge Fans,"[11, 15]",879
+ddc6b2a0-ace3-4197-8dae-fcb17c757161,Finance World Connect,"[4, 8]",880
+de55aabb-e08c-4db1-8bc1-a67f973d9a2f,Finance World Circle,"[5, 6, 13]",881
+ded37324-d4c4-4496-990f-98da098a2b22,Tech Talks Circle,[13],882
+df53b025-5377-46cd-9ae2-0d28d57fb67f,Finance World Circle,"[13, 14]",883
+df74cbfe-e688-444a-ae2f-7e6fdb52e3ba,Art Lounge Corner,"[1, 4, 15]",884
+e0464707-b4d7-4282-868f-463f8c16a9bb,Tech Talks Circle,"[9, 13]",885
+e0dbc0d3-fbe5-4616-9fc1-4ef559b31676,Finance World Connect,"[1, 7, 11]",886
+e0dc816e-6041-4f0b-abef-465f0fb20e27,Gaming Hub Fans,[12],887
+e157fb41-df22-496e-b6d8-98c3044e997c,Art Lounge Fans,[1],888
+e15cdc2a-2335-4f21-adcd-a575b17a2e34,Gaming Hub Circle,[1],889
+e172480f-36b6-4a61-81c6-08d873828b0c,Finance World Connect,[6],890
+e1abd150-4b41-4357-9bc4-e0fa3fdf8afd,Gaming Hub Circle,"[2, 9]",891
+e2153f7b-3a4b-4089-b072-9b10e91ebc26,Finance World Corner,"[13, 15]",892
+e2845398-7d4e-4ed6-836e-90d80e4cd5a9,Study Zone Connect,[9],893
+e3201ea4-6f54-4e9f-b487-f72277bb5f0f,Study Zone Corner,"[7, 9]",894
+e33ab9a8-2584-4fa1-aa5b-5fbe8790d9cd,Art Lounge Connect,[15],895
+e3b5bf01-8c97-44bb-93b2-e16c3cb35fd8,Art Lounge Circle,[10],896
+e411e494-c18a-49ea-8d0a-3fa52ceb88f7,Tech Talks Circle,[12],897
+e4899412-b0ab-4ac2-b647-cb898462dea8,Study Zone Circle,"[6, 11]",898
+e4d20e49-8b02-4e30-932f-d1fa198c31ee,Study Zone Fans,"[1, 12, 15]",899
+e501ed13-e173-42ba-877d-87471d1c5cc2,Tech Talks Fans,"[1, 13]",900
+e52c1129-3eee-4db7-af5c-f74886bdb29c,Art Lounge Circle,"[2, 8]",901
+e558f9dc-0d80-405f-b481-51ce0463b94d,Finance World Circle,"[2, 15]",902
+e6036f0d-bf50-4460-ab94-f0ec7d50d7dd,Tech Talks Circle,[5],903
+e604fd05-99fc-440f-a40c-90c25c002ca1,Study Zone Corner,"[7, 8, 14]",904
+e61c0765-f167-4b84-8be7-628d85b8b2cf,Finance World Circle,[15],905
+e69929db-6c6d-4377-8397-c83e2a5fb80f,Finance World Corner,"[1, 14]",906
+e6afc062-8762-400e-8e48-54ea7209bb9b,Gaming Hub Corner,"[6, 8, 12]",907
+e6b34530-6239-4125-96fc-57d29cab6b53,Art Lounge Corner,[2],908
+e6ea80d3-6633-45b9-b297-c058cf453538,Gaming Hub Circle,"[1, 9]",909
+e701bc43-e006-4d9d-a65a-d2439852b6e0,Study Zone Corner,"[10, 13]",910
+e702849e-63a4-4e5f-9864-39ce934ff578,Art Lounge Fans,[5],911
+e70ec864-d889-4435-8062-c8faf32d02a7,Study Zone Fans,[10],912
+e7a4397f-b7fe-4fcb-8f2c-a2682b8ae3d8,Gaming Hub Circle,"[6, 8]",913
+e7b9bcf0-4127-44d2-becb-25fa4c17d570,Art Lounge Corner,"[2, 9]",914
+e89bea8a-8388-4eb6-a015-665b1565587f,Study Zone Fans,[5],915
+e8a5f070-6f6e-45b5-aea8-775e4dcca626,Finance World Corner,[15],916
+e8c1ef79-27d8-4d64-871d-50cd1b8eadd0,Gaming Hub Connect,"[5, 13, 14]",917
+e8e0760c-31da-4449-b965-cf373f2dcdae,Art Lounge Corner,"[7, 9, 13]",918
+e8ece1c1-3e6c-4b40-97e1-0412b3d8b848,Art Lounge Fans,"[1, 8, 13]",919
+e9791016-4e53-4009-9523-435a26972f36,Gaming Hub Fans,"[8, 12, 15]",920
+e987fae7-f064-475e-8a91-cfb661e1a14f,Finance World Connect,"[7, 9, 12]",921
+e99f49dd-e150-4d2f-b873-e8845a01c2f2,Finance World Connect,"[7, 12, 15]",922
+e9daec1c-fe88-44ff-a61e-bfd79f34a98a,Finance World Fans,"[1, 3, 10]",923
+ea87f5ac-30a8-4343-aa5c-6c78c1003ce3,Gaming Hub Corner,[3],924
+eac2f3a8-19bf-48cb-a03b-af2585615499,Study Zone Corner,[12],925
+ead316c7-68a5-4a9b-82c3-f351628904d9,Art Lounge Corner,[13],926
+eb45bc30-e5a9-478f-99d2-2e082549ee8a,Art Lounge Connect,[10],927
+eb97585e-1fc6-451e-99cd-61eb0fa0c33b,Study Zone Connect,"[2, 4, 9]",928
+ec6b0d82-03da-4c16-beca-f9f75b01bae3,Tech Talks Corner,[13],929
+ec883777-ea9f-425d-adc8-27bdecc15ac7,Gaming Hub Circle,"[6, 12, 13]",930
+ec8b24b6-d206-40fb-9270-e7cc2072b832,Tech Talks Circle,"[6, 15]",931
+ed22d246-0929-4de0-b898-d30d43640a24,Gaming Hub Corner,"[10, 13]",932
+ed4f88eb-2a14-4299-9c17-863d40b2ae63,Tech Talks Circle,"[3, 11, 13]",933
+ed6eb744-380d-465f-9174-7ed808e32b49,Gaming Hub Circle,"[8, 15]",934
+ed7899f0-e5d1-486d-ab2e-22cd68f99600,Tech Talks Connect,[1],935
+ee00c5e8-88d8-4662-a441-efc06d88e4e1,Art Lounge Connect,"[1, 11]",936
+ee15b600-290f-4b43-93f5-f95138a0e6a2,Study Zone Fans,[10],937
+eeae905f-7b43-4d19-b5e3-b0c1b23f5c60,Tech Talks Corner,"[8, 14]",938
+eee845fa-e6a8-421c-8081-44a4dcb757b4,Gaming Hub Corner,"[1, 12]",939
+eeedc42f-3370-40c1-8ef4-b3d5ecc37a13,Tech Talks Fans,"[2, 10]",940
+ef086f6a-0bd4-4c69-b93f-b0f4c41442c3,Tech Talks Circle,[6],941
+ef1198af-a64a-4750-a274-b29e90b66e3a,Tech Talks Connect,"[3, 9]",942
+ef20a4cc-3cb6-4db5-90cb-e595f10b792c,Art Lounge Circle,[1],943
+ef885528-bb47-427e-8a5b-661a1d34d860,Art Lounge Corner,"[4, 6, 15]",944
+f08a46ea-b680-46d7-8e6e-ffe744b2497b,Gaming Hub Connect,[13],945
+f11befb6-d559-4bdd-a376-70828260048a,Art Lounge Connect,"[2, 5, 11]",946
+f18413d6-351a-4a18-a66c-db975ec24d8f,Finance World Circle,"[6, 10, 12]",947
+f198e243-dad7-4a53-8d5f-29301be7f1d3,Gaming Hub Connect,"[2, 11]",948
+f1e3d622-7e58-44e1-87ff-9f9cbeb7a372,Art Lounge Circle,"[7, 15]",949
+f269706a-13b3-4a3c-9767-193c74879438,Tech Talks Corner,"[9, 15]",950
+f2a89e51-bb44-4fed-82a9-29fb11f4c607,Art Lounge Fans,[6],951
+f2e3fc1e-88c4-4d0d-98da-744866e147b8,Finance World Fans,"[11, 12]",952
+f2edc074-70e7-4b16-9ea3-78fc89fc0e28,Study Zone Corner,[8],953
+f30e6ecf-831f-4b2e-9adc-4416fd3f182d,Study Zone Corner,"[10, 13]",954
+f3174d48-68fc-420c-b59c-06d03d8750d8,Tech Talks Circle,"[6, 8]",955
+f33d8bcf-f480-4e3a-b191-4893a9337453,Gaming Hub Fans,[3],956
+f46c5772-27f7-483b-9649-6b9933611578,Tech Talks Fans,"[2, 6, 10]",957
+f4acf531-9f8c-4a1f-855a-486a01494486,Art Lounge Circle,"[1, 3]",958
+f4d03426-791d-44ed-97ce-76cd28b50f67,Finance World Fans,"[3, 10]",959
+f527cfd1-cc68-447c-9344-dada827f16ee,Finance World Connect,"[1, 11]",960
+f54cb72f-0e40-4109-bb6e-aef28b131527,Finance World Corner,"[6, 7, 12]",961
+f54fcfe6-1e27-4395-98b6-233e502f79cc,Study Zone Connect,"[1, 8]",962
+f5761589-177e-42b6-800c-c3cf027be995,Art Lounge Fans,"[2, 6]",963
+f5904777-67d3-4a5a-a451-f776c6d98655,Study Zone Corner,"[7, 9, 12]",964
+f5c76556-fe45-4583-838d-d98e09922832,Study Zone Corner,[8],965
+f67aff64-f843-4c03-9272-7ed325d0e6bd,Finance World Corner,"[2, 13]",966
+f6df62b0-616a-4ab2-b77a-90c232cdaa6d,Gaming Hub Connect,"[3, 10, 12]",967
+f7339be9-0b6c-4492-9d43-48a1fa3bad1e,Art Lounge Fans,"[7, 9]",968
+f77d96f2-2749-42e5-a4e1-e7fd3e6d12f4,Study Zone Connect,[15],969
+f86eeb6b-f30f-423b-a7cf-78d311ec1d30,Art Lounge Corner,"[1, 14]",970
+f88dcd6d-e48f-46f9-8f5f-e7c67244e3b2,Study Zone Circle,[4],971
+f8af633b-30fd-4dee-8e08-2604784b8441,Study Zone Fans,"[8, 10, 15]",972
+f96226c3-7c8f-462f-a5a1-69f496c2b3b2,Art Lounge Connect,"[7, 13, 15]",973
+f9895290-06a3-4b95-86ff-a3af9f177c31,Finance World Fans,"[10, 15]",974
+f9df6f1f-44d4-4717-bbb4-861f19105ed0,Tech Talks Connect,"[7, 10]",975
+fa1d3e96-906c-4b76-8729-a069ce635bea,Finance World Circle,[9],976
+faa529bd-dad3-4792-a0cf-bd73d3d9b075,Tech Talks Circle,"[7, 11]",977
+faa5a66d-a21a-437e-9bca-526080e6c4c6,Tech Talks Circle,"[3, 5, 8]",978
+fb6c3053-4b24-49fc-9fca-725d8084f7d9,Finance World Fans,[2],979
+fb877d6b-91a9-43c1-b11d-7dc45f0add9d,Gaming Hub Circle,"[1, 10, 12]",980
+fb9a4bcf-535e-4c86-8c01-d00abefdb3cc,Study Zone Circle,"[2, 3]",981
+fbaa6456-c751-42d5-9433-47e10752760e,Tech Talks Connect,[3],982
+fbdf46be-60a5-4bfe-8ee3-277c846cd004,Gaming Hub Connect,"[7, 9, 10]",983
+fc1b2fc9-295f-4479-b57c-afa8fb162dbb,Finance World Circle,[7],984
+fc30118b-1d85-432e-8762-48be9feb26b0,Gaming Hub Corner,"[3, 7]",985
+fcd6b042-df41-4146-b0fa-99e43f6a54cf,Finance World Circle,[7],986
+fced2643-7601-4b6c-986f-b3126cac6c2a,Study Zone Connect,[9],987
+fd06a686-317f-4e13-a7e1-c02446695176,Art Lounge Connect,[10],988
+fdd3ac51-bac5-476f-b9b6-a4aaa1962562,Study Zone Connect,"[5, 6, 8]",989
+fe15a61a-1ae1-4acf-aac2-ae532435f3cc,Finance World Corner,"[3, 7, 9]",990
+fe3585c5-dfda-4294-8315-145ee02be4cf,Study Zone Fans,"[7, 12]",991
+feb5505f-71c3-4b38-a7f5-72a381ec74d1,Tech Talks Circle,[5],992
+fec5ab85-412c-4d20-8d73-140a4f5c0099,Art Lounge Circle,[5],993
+ff2edf21-fe9a-49ac-a368-aecd6d1ed1eb,Study Zone Fans,[7],994
+ff64cacb-22f1-45e2-a098-c9a180cf3726,Study Zone Corner,"[4, 7, 13]",995
+ff738579-7175-49b3-a17d-550cbbc3b4d2,Art Lounge Corner,[15],996
+ff87749b-cd2a-4cbb-8951-d1ff222361f7,Gaming Hub Corner,"[4, 14, 15]",997
+ffab3ac2-d62c-4034-9d16-43d6ab8e3f10,Gaming Hub Circle,"[6, 12, 15]",998
+ffd06996-c493-41ed-af24-c167602a2b57,Tech Talks Fans,"[9, 12, 13]",999
+39ae1b64-deeb-42cb-b04b-a5fee48ea6c3,,,1001
+39a41b64-debb-42cb-b54b-a6fee48ea6c3,,,1002
