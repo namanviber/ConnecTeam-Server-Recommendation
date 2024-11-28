@@ -81,7 +81,6 @@ class RecommendationSystem:
             self.model = LightFM(
                 no_components=150, 
                 learning_rate=0.05, 
-                loss='warp', 
                 random_state=42
             )
 
@@ -126,20 +125,26 @@ class RecommendationSystem:
     def get_recommendations(self, user_id, top_k=10):
         """Get top K recommendations for a user"""
         try:
-            user_num = self.user_map[user_id]
+            user_num = int(self.user_map[user_id])
+
+            exclude = self.df_interaction[self.df_interaction['user_num'] == user_num]['server_num']
+
+            df_server = self.df_server[~self.df_server['server_num'].isin(exclude.values)]
 
             all_server_scores = self.model.predict(
                 user_ids=user_num, 
-                item_ids=np.arange(len(self.df_server)),
+                item_ids=np.arange(len(df_server)),
                 user_features=self.user_features_matrix, 
                 item_features=self.server_features_matrix
             )
 
             top_server_indices = np.argsort(-all_server_scores)[:top_k]
-            recommended_servers = self.df_server.loc[
-                self.df_server['server_num'].isin(top_server_indices), 
-                ['server_id', 'server_name', 'server_category']
-            ]
+            print("Top server indices and scores:")
+            for idx in top_server_indices:
+                print(f"Index: {idx}, Score: {all_server_scores[idx]}")
+                
+            recommended_servers = df_server[df_server['server_num'].isin(top_server_indices)][
+            ['server_id', 'server_name', 'server_category']]
 
             return recommended_servers.to_dict(orient='records')
         except Exception as e:
