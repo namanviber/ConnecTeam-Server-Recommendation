@@ -29,18 +29,12 @@ class RecommendationSystem:
         try:
             self.df_interaction = df_interaction
             self.df_server = df_server
-            self.df_user = df_user
-            
-            # Convert server_category to list
-            self.df_server['server_category'] = self.df_server['server_category'].apply(eval)
-            self.df_user['interest'] = self.df_user['interest'].apply(eval)
-            
-            # Create numeric mappings
+            self.df_user = df_user            
+
             self.category_mapping = set(df_category['Category ID'])
             self.user_map = self.df_user.set_index('user_id')['user_num']
             self.server_map = self.df_server.set_index('server_id')['server_num']
             
-            # Add numeric mappings to interaction dataframe
             self.df_interaction['user_num'] = self.df_interaction['user_id'].map(self.user_map)
             self.df_interaction['server_num'] = self.df_interaction['server_id'].map(self.server_map)
             self.df_interaction['rating'] = self.df_interaction['rating'].fillna(0).astype(float)
@@ -49,6 +43,7 @@ class RecommendationSystem:
         except Exception as e:
             print(f"Error in data preparation: {e}")
             return False
+
 
     def train_model(self):
         """Train the recommendation model"""
@@ -59,7 +54,7 @@ class RecommendationSystem:
                 for _, row in self.df_server.iterrows()
             ]
             user_features = [
-                (row['user_num'], row['interest']) 
+                (row['user_num'], row['server_category']) 
                 for _, row in self.df_user.iterrows()
             ]
 
@@ -89,16 +84,16 @@ class RecommendationSystem:
                 loss='warp', 
                 random_state=42
             )
+
             self.model.fit(
                 self.interactions, 
                 item_features=self.server_features_matrix,
                 user_features=self.user_features_matrix, 
                 sample_weight=weights, 
                 epochs=30, 
-                num_threads=4
+                num_threads=1
             )
 
-            # Optional: Evaluate model
             precision = precision_at_k(
                 self.model, self.interactions, k=5, 
                 user_features=self.user_features_matrix, 
@@ -120,17 +115,19 @@ class RecommendationSystem:
             print(f'AUC: {auc:.4f}')
 
             return True
+        except KeyError as e:
+            print(f"Missing column in data: {e}")
+            return False
         except Exception as e:
             print(f"Error in model training: {e}")
             return False
 
+
     def get_recommendations(self, user_id, top_k=10):
         """Get top K recommendations for a user"""
         try:
-            # Map user_id to numeric representation
             user_num = self.user_map[user_id]
 
-            # Predict scores for all servers
             all_server_scores = self.model.predict(
                 user_ids=user_num, 
                 item_ids=np.arange(len(self.df_server)),
@@ -138,7 +135,6 @@ class RecommendationSystem:
                 item_features=self.server_features_matrix
             )
 
-            # Get top K servers
             top_server_indices = np.argsort(-all_server_scores)[:top_k]
             recommended_servers = self.df_server.loc[
                 self.df_server['server_num'].isin(top_server_indices), 

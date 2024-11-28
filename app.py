@@ -4,44 +4,30 @@ import pandas as pd
 from flask import Flask, request, jsonify
 from recommendation_model import RecommendationSystem
 from config import Config
+import ast
 
 app = Flask(__name__)
 recommender = RecommendationSystem()
 
-# Global training flag
 IS_MODEL_TRAINED = False
 
 @app.route('/train', methods=['POST'])
 def train_model():
     global IS_MODEL_TRAINED
     try:
-        # Receive data
-        data = request.json
-        
-        # Create DataFrames
+        data = request.json     
         df_interaction = pd.DataFrame(data)
         
-        # Derive additional DataFrames
-        df_server = df_interaction.groupby(['server_id', 'server_name'])['server_category'].apply(
-            lambda x: sorted(set(item for sublist in x.apply(eval) for item in sublist))
-        ).reset_index()
-        df_user = df_interaction.groupby(['user_id', 'user_name'])['server_category'].apply(
-            lambda x: sorted(set(item for sublist in x.apply(eval) for item in sublist))
-        ).reset_index()
+        df_server = df_interaction.groupby(['server_id', 'server_name'])['server_category'].apply(lambda x: sorted(set(item for sublist in x.apply(ast.literal_eval) for item in sublist))).reset_index()
+        df_user = df_interaction.groupby(['user_id', 'user_name'])['server_category'].apply(lambda x: sorted(set(item for sublist in x.apply(ast.literal_eval) for item in sublist))).reset_index()
         
-        # Fake category DataFrame for demonstration
-        df_category = pd.DataFrame({
-            'Category ID': list(set(item for row in df_server['server_category'] for item in row))
-        })
+        df_category = pd.read_csv("Dataset\server_category.csv")
         
-        # Add numeric mappings
         df_user['user_num'] = range(len(df_user))
         df_server['server_num'] = range(len(df_server))
         
-        # Prepare and train model
         if recommender.prepare_data(df_interaction, df_server, df_user, df_category):
             if recommender.train_model():
-                # Save model
                 recommender.save_model(Config.MODEL_PATH)
                 IS_MODEL_TRAINED = True
                 return jsonify({"status": "Model Training Complete"}), 200
@@ -66,7 +52,6 @@ def recommend():
         if not IS_MODEL_TRAINED:
             return jsonify({"error": "Model not trained"}), 403
         
-        # Load model if not already loaded
         if recommender.model is None:
             recommender.load_model(Config.MODEL_PATH)
         
