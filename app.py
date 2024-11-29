@@ -29,8 +29,17 @@ def train_model():
     .reset_index()
 )
         df_user = df_interaction.groupby(['user_id', 'user_name'])['server_category'].apply(lambda x: sorted(set(item for sublist in x.apply(ast.literal_eval) for item in sublist))).reset_index()
+
+        category_data = {
+    "Category ID": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    "Server Category": [
+        "Coding", "Gaming", "Technology", "Education", "Music",
+        "Entertainment", "Movies", "Health", "Art", "Finance",
+        "Business", "Stocks", "Social", "Culture", "Science"
+    ]
+}
         
-        df_category = pd.read_csv("Dataset\server_category.csv")
+        df_category = pd.DataFrame(category_data)
         
         df_user['user_num'] = range(len(df_user))
         df_server['server_num'] = range(len(df_server))
