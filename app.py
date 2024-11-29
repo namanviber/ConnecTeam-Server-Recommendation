@@ -15,10 +15,19 @@ IS_MODEL_TRAINED = False
 def train_model():
     global IS_MODEL_TRAINED
     try:
+        IS_MODEL_TRAINED = False
         data = request.json     
         df_interaction = pd.DataFrame(data)
         
-        df_server = df_interaction.groupby(['server_id', 'server_name'])['server_category'].apply(lambda x: sorted(set(item for sublist in x.apply(ast.literal_eval) for item in sublist))).reset_index()
+        df_server = (
+    df_interaction.groupby(['server_id', 'server_name'])
+    .apply(lambda group: pd.Series({
+        'server_category': sorted(set(item for sublist in group['server_category'].apply(ast.literal_eval) for item in sublist)),
+        'server_image': group['server_image'].iloc[0], 
+        'server_invite': group['server_invite'].iloc[0],
+    }))
+    .reset_index()
+)
         df_user = df_interaction.groupby(['user_id', 'user_name'])['server_category'].apply(lambda x: sorted(set(item for sublist in x.apply(ast.literal_eval) for item in sublist))).reset_index()
         
         df_category = pd.read_csv("Dataset\server_category.csv")
@@ -36,11 +45,6 @@ def train_model():
     
     except Exception as e:
         return jsonify({"error": str(e)}), 400
-
-@app.route('/check_training', methods=['GET'])
-def check_training():
-    global IS_MODEL_TRAINED
-    return jsonify({"trained": 1 if IS_MODEL_TRAINED else 0})
 
 @app.route('/recommend', methods=['POST'])
 def recommend():
@@ -62,4 +66,4 @@ def recommend():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    app.run()

@@ -143,10 +143,12 @@ class RecommendationSystem:
             for idx in top_server_indices:
                 print(f"Index: {idx}, Score: {all_server_scores[idx]}")
                 
-            recommended_servers = df_server[df_server['server_num'].isin(top_server_indices)][
-            ['server_id', 'server_name', 'server_category']]
+            recommended_servers = self.df_server.loc[~
+                self.df_server['server_num'].isin(top_server_indices), 
+                ['server_id', 'server_name', 'server_category','server_image','server_invite']
+            ]
 
-            return recommended_servers.to_dict(orient='records')
+            return recommended_servers.to_dict(orient="records")
         except Exception as e:
             print(f"Error in recommendations: {e}")
             return []
