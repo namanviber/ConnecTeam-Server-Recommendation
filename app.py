@@ -5,8 +5,12 @@ from flask import Flask, request, jsonify
 from recommendation_model import RecommendationSystem
 from config import Config
 import ast
+from flask_cors import CORS
+
 
 app = Flask(__name__)
+CORS(app, resources={r"/*": {"origins": "*"}})
+
 recommender = RecommendationSystem()
 
 IS_MODEL_TRAINED = False
